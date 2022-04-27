@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a front-end developer.
 - 🌱 I’m currently learning node.js.
-- 📫 How to reach me: (mailto:martikavagyan1@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 📫 How to reach me: martikavagyan1@gmail.com
 -->
 
 ## Languages and Tools 👩‍💻
