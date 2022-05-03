@@ -1,4 +1,4 @@
-### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I’m Martik. ![](https://visitor-badge.glitch.me/badge?page_id=m-avagyan.m-avagyan)
+### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I’m Martik.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martik)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martikavagyan1@gmail.com)
@@ -23,3 +23,5 @@
   <img height="192em" src="https://github-readme-stats.vercel.app/api?username=m-avagyan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-avagyan&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=default&langs_count=8"/>
 </p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=m-avagyan.m-avagyan)
