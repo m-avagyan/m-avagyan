@@ -17,13 +17,13 @@
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: martikavagyan1@gmail.com.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-avagyan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ### 📈 My GitHub Stats
 
 <p>
   <img height="192em" src="https://github-readme-stats.vercel.app/api?username=m-avagyan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-avagyan&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=default&langs_count=8"/>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-avagyan)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=m-avagyan.m-avagyan)
