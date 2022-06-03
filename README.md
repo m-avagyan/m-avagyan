@@ -24,4 +24,6 @@
   <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-avagyan&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=default&langs_count=8"/>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-avagyan)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=m-avagyan.m-avagyan)
