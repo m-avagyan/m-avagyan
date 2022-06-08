@@ -23,7 +23,7 @@
 
 <p>
   <img height="192em" src="https://github-readme-stats.vercel.app/api?username=m-avagyan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-avagyan&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=default&langs_count=8"/>
+  <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-avagyan&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=default&langs_count=5"/>
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=m-avagyan.m-avagyan)
