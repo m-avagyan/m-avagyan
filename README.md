@@ -13,7 +13,7 @@
 ### Talking about Personal Stuffs
 
 - 👨🏻‍💻 I’m currently working as a Front-End Developer.
-- 🚀 I’m currently learning Node.js.
+- 🚀 I’m currently learning TypeScript.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: martikavagyan1@gmail.com.
 
