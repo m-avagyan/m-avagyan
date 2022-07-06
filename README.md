@@ -10,7 +10,7 @@
 
 <img alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="100%" height="480" />
 
-### Talking about Personal Stuffs
+### 💻 Personal Stuffs
 
 - 👨🏻‍💻 I’m currently working as a Front-End Developer.
 - 🚀 I’m currently learning TypeScript.
@@ -19,7 +19,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-avagyan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-### 📈 My GitHub Stats
+### 📈 GitHub Stats
 
 <p>
   <img height="192em" src="https://github-readme-stats.vercel.app/api?username=m-avagyan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
