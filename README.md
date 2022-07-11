@@ -9,10 +9,3 @@
 ### I am a Front-End Developer. I love programming, sport and driving.
 
 <img alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="100%" height="480" />
-
-### 💻 Personal Stuffs
-
-- 👨🏻‍💻 I’m currently working as a Front-End Developer.
-- 🚀 I’m currently learning TypeScript.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: martikavagyan1@gmail.com.
