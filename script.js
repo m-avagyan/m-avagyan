@@ -18,4 +18,22 @@ function getUser() {
   }
 }
 
+function getUserContacts() {
+  const contacts = {};
+  
+  if (user.phone) {
+    contacts.phone = user.phone;
+  }
+  
+  if (user.email) {
+    contacts.email = user.email;
+  }
+  
+  return contacts;
+}
+
 getUser();
+
+const contacts = getUserContacts();
+
+console.log(contacts)
