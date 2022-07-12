@@ -10,4 +10,12 @@ const user = {
   skills: ['HTML', 'CSS', 'SASS', 'LESS', 'JavaScript', 'TypeScript', 'React', 'Redux', 'Recoil', 'MaterialUI', 'git', 'GitHub', 'npm', 'yarn'],
 };
 
-console.log(user);
+function getUser() {
+  if (Object.values(user) === 0 || !user) {
+    console.log('Can not get the user data');
+  } else {
+    console.log('User:', user);
+  }
+}
+
+getUser();
