@@ -1,3 +1,5 @@
+/* JavaScript file */
+
 const user = {
   firstName: 'Martik',
   lastName: 'Avagyan',
