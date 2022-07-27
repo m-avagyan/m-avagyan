@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Martik:
-🔭 I’m currently working on private projects<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about Front-End Development
+🔭 I’m currently working on private projects<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about Web Development
 
 
 ## 🌐 Socials:
