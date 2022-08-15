@@ -24,8 +24,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-avagyan&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-avagyan&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-avagyan&theme=default&hide_title=false&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-avagyan&theme=default&hide_title=false&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="languages graph"  />
 </div>
 
 ###
@@ -56,5 +56,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
 </div>
+
+###
+
+<img src="https://activity-graph.herokuapp.com/graph?username=m-avagyan&theme=github" alt="github activity graph" />
 
 ###
