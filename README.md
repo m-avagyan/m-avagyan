@@ -55,7 +55,3 @@
 </div>
 
 ###
-
-<img src="https://activity-graph.herokuapp.com/graph?username=m-avagyan&theme=github" alt="github activity graph" />
-
-###
