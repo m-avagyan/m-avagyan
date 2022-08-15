@@ -28,6 +28,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-avagyan&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="languages graph"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=m-avagyan&theme=discord&no-frame=true&no-bg=true&column=7" alt="github trophies" />
+</div>
+
 ---
 
 <div align="left">
