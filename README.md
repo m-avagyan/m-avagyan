@@ -24,8 +24,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-avagyan&theme=default&hide_title=false&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-avagyan&theme=default&hide_title=false&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-avagyan&theme=default&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-avagyan&theme=default&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="languages graph"  />
 </div>
 
 ###
