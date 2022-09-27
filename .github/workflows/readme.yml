@@ -69,7 +69,8 @@ jobs:
           use_prebuilt_image: yes
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: bytes-size, percentage, lines
+          commits_authoring: firstname lastname, username, username@users.noreply.github.com
      - name: plugin achievements
        uses: lowlighter/metrics@latest
        with:
