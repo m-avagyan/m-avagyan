@@ -62,15 +62,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           repositories: 200                
-          repositories_forks: no           
+          repositories_forks: yes           
           repositories_affiliations: owner, collaborator
           config_timezone: Armenia/Yerevan
           filename: languages.svg
           use_prebuilt_image: yes
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage, lines
-          commits_authoring: firstname lastname, username, username@users.noreply.github.com
+          plugin_languages_details: bytes-size, percentage
      - name: plugin achievements
        uses: lowlighter/metrics@latest
        with:
