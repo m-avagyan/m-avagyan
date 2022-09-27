@@ -13,7 +13,6 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/martik/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="32" alt="linkedin logo"  /></a>
   <a href="https://twitter.com/martikavagyan/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="56" height="32" alt="twitter logo"  /></a>
   <a href="https://t.me/martikavagyan" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="56" height="32" alt="telegram logo"  /></a>
-  <a href="https://wa.me/37477420419" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="56" height="32" alt="whatsapp logo"  /></a>
   <a href="mailto:martikavagyan1@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="32" alt="gmail logo"  /></a>
 </div>
 
