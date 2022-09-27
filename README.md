@@ -10,6 +10,7 @@
       <img src="https://github.com/m-avagyan/m-avagyan/blob/master/activity-community.svg">
       <img src="https://github.com/m-avagyan/m-avagyan/blob/master/languages.svg">
       <img src="https://github.com/m-avagyan/m-avagyan/blob/master/achievements.svg">
+      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/recent-activity.svg">
     </td>
   </tr>
   </tbody>
