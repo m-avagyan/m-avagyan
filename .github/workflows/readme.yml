@@ -81,7 +81,7 @@ jobs:
           filename: topics.svg
           use_prebuilt_image: yes
           plugin_topics: yes
-          plugin_topics_sort: stars
+          plugin_topics_sort: random
           plugin_topics_mode: mastered
           plugin_topics_limit: 20
      - name: plugin achievements
