@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="216" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="566" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">health-finder/chat-for-friends</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">martik/sbv-2695</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f0ccec2</div>
-                                        <div class="message">fix: error handling for circle button</div>
+                                        <div class="sha">#9fedc82</div>
+                                        <div class="message">fix: empty and loading state</div>
                                     </div>
                                 </div>
                             </section>
@@ -42,15 +42,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">health-finder/chat-for-friends</span>
+                                        Pushed 57 commits in
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">martik/sbv-2695</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2be6ff4</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/health-finder/chat-for-friends into dev</div>
+                                        <div class="sha">#f622c2b</div>
+                                        <div class="message">SBV-2802</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec66ec1</div>
+                                        <div class="message">SBV-2802</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28394c9</div>
+                                        <div class="message">FIX casino category filter issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa36410</div>
+                                        <div class="message">SEPARATE reload button functionality</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d2ee44</div>
+                                        <div class="message">Merge branch 'develop' into davidmirumyan/SBV-2697-springbuilder-x-changes-in-bet-history-section</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#011a96e</div>
+                                        <div class="message">Merge branch 'develop' into davidmirumyan/SBV-2697-springbuilder-x-changes-in-bet-history-section</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87c431e</div>
+                                        <div class="message">SBV-2698 fixed the scrollbar issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fd221f</div>
+                                        <div class="message">SBV-2684 changed the z-indexes to fix the modals layers</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37e2813</div>
+                                        <div class="message">OutRight-new</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b9c092</div>
+                                        <div class="message">OutRight</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed82739</div>
+                                        <div class="message">SBV-2684 changed the place of redirection logic to use that in mobile version to</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf67086</div>
+                                        <div class="message">SBV-2698 fixed some issues and comments</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bebb82e</div>
+                                        <div class="message">FIX issues</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87441a3</div>
+                                        <div class="message">SBV-2684 fixed some issues for fixed header</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c646b60</div>
+                                        <div class="message">MERGE with develop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eff703</div>
+                                        <div class="message">ADD for mobile check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19b99d1</div>
+                                        <div class="message">ADD id search to bet history</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffcdbe1</div>
+                                        <div class="message">SBV-2758 fixed the configuration of SearchElement component on A-to-Z menu</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8afa609</div>
+                                        <div class="message">SBV-2698 refactored the jackpot part and fixed the one issue related with jackpot</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ba5ddb</div>
+                                        <div class="message">REMOVE unnecessary config</div>
                                     </div>
                                 </div>
                             </section>
@@ -59,16 +135,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#22 button-component</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">health-finder/chat-for-friends</span></div>
+                                    <div>on branch <span class="code">martik/sbv-2770</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c774695</div>
+                                        <div class="message">fix: check usa jurisdiction for calendar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b687a36</div>
+                                        <div class="message">fix: check is the field name exist before passing to calendar</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
