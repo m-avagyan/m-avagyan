@@ -76,7 +76,7 @@ jobs:
           base: ""
           repositories: 200                
           repositories_forks: yes           
-          repositories_affiliations: owner, collaborator
+          repositories_affiliations: owner, collaborator, organization_member
           config_timezone: Armenia/Yerevan
           filename: achievements.svg
           use_prebuilt_image: yes
