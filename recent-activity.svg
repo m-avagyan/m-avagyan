@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="549" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="582" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,34 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">martik/sbv-2976</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fd58301</div>
+                                        <div class="message">wip: use configs for get game object helper</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c0c7cb</div>
+                                        <div class="message">wip: destructure configs from props</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12bbe4b</div>
+                                        <div class="message">wip: seperate config type from props</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -137,28 +165,6 @@ Hotfix SBV-2964 fixed the rerendering issue on mobile sportsbook</div>
                                     <div class="commit">
                                         <div class="sha">#f04f608</div>
                                         <div class="message">Hotfix SBV-2964 fixed the rerendering issue on mobile sportsbook</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ClickDate/clickdate-landing-gatsby</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0819131</div>
-                                        <div class="message">Revert "fix: temporary disable wordpress source nodes"
-
-This reverts commit 9d1905f826cb3d75be9510563dd08b4d0af5dbd5.</div>
                                     </div>
                                 </div>
                             </section>
