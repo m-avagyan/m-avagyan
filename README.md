@@ -4,11 +4,11 @@
     <td width="400px" style="border: none; vertical-align: top;">
       <img src="https://github.com/m-avagyan/m-avagyan/blob/master/header.svg">
       <img src="https://github.com/m-avagyan/m-avagyan/blob/master/repositories.svg">
-      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/languages.svg">
       <img src="https://github.com/m-avagyan/m-avagyan/blob/master/activity-community.svg">
       <img src="https://github.com/m-avagyan/m-avagyan/blob/master/recent-activity.svg">
     </td>
     <td width="400px" style="border: none; vertical-align: top;">
+      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/languages.svg">
       <img src="https://github.com/m-avagyan/m-avagyan/blob/master/achievements.svg">
     </td>
   </tr>
