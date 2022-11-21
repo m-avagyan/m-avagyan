@@ -22,15 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">martik/sbv-3077</span></div>
                                     <div class="commit">
-                                        <div class="sha">#62cb717</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/ucraft-com/springbuilder-x into martik/sbv-3077</div>
+                                        <div class="sha">#74f3493</div>
+                                        <div class="message">style: logged out and loader styles</div>
                                     </div>
                                 </div>
                             </section>
@@ -47,10 +47,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
+                                    <div>on branch <span class="code">martik/sbv-3077</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f86bde6</div>
-                                        <div class="message">fix: file import issues in test wrapper</div>
+                                        <div class="sha">#dc82424</div>
+                                        <div class="message">wip: add missing translations</div>
                                     </div>
                                 </div>
                             </section>
@@ -67,10 +67,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
+                                    <div>on branch <span class="code">martik/sbv-3077</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d65980c</div>
-                                        <div class="message">unit: fix some code styling issues</div>
+                                        <div class="sha">#967f2d7</div>
+                                        <div class="message">wip: add hearth icon colored version</div>
                                     </div>
                                 </div>
                             </section>
