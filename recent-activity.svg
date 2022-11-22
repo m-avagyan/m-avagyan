@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="266" class="">
     <defs>
         <style/>
     </defs>
@@ -27,10 +27,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/sbv-3077</span></div>
+                                    <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6063723</div>
-                                        <div class="message">feat: add default hearth icon</div>
+                                        <div class="sha">#e54dc43</div>
+                                        <div class="message">refactor(unit:test): code styles and minor fixes</div>
                                     </div>
                                 </div>
                             </section>
@@ -47,10 +47,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/sbv-3077</span></div>
+                                    <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#389cdb4</div>
-                                        <div class="message">wip</div>
+                                        <div class="sha">#f4aa51c</div>
+                                        <div class="message">fix(unit-tests): make calculate possible win tests happy</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,15 +62,23 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 3 commits in
                                         <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/sbv-3077</span></div>
+                                    <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#91d3f73</div>
-                                        <div class="message">feat: no logged in state fav team styles</div>
+                                        <div class="sha">#458fa2e</div>
+                                        <div class="message">refactor: unit tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c123ba4</div>
+                                        <div class="message">fix: ts errors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21869b4</div>
+                                        <div class="message">fix: ts errors</div>
                                     </div>
                                 </div>
                             </section>
