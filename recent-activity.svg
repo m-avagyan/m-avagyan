@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/sbv-3077</span></div>
                                     <div class="commit">
-                                        <div class="sha">#74f3493</div>
-                                        <div class="message">style: logged out and loader styles</div>
+                                        <div class="sha">#6063723</div>
+                                        <div class="message">feat: add default hearth icon</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/sbv-3077</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dc82424</div>
-                                        <div class="message">wip: add missing translations</div>
+                                        <div class="sha">#389cdb4</div>
+                                        <div class="message">wip</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/sbv-3077</span></div>
                                     <div class="commit">
-                                        <div class="sha">#967f2d7</div>
-                                        <div class="message">wip: add hearth icon colored version</div>
+                                        <div class="sha">#91d3f73</div>
+                                        <div class="message">feat: no logged in state fav team styles</div>
                                     </div>
                                 </div>
                             </section>
