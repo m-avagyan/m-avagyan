@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/sbv-3077</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aebb8c5</div>
-                                        <div class="message">fix: spacing</div>
+                                        <div class="sha">#44394d8</div>
+                                        <div class="message">fix: clean up prev game id every route changes</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/sbv-3077</span></div>
                                     <div class="commit">
-                                        <div class="sha">#53afecf</div>
-                                        <div class="message">feat: connect with v2 configs</div>
+                                        <div class="sha">#02a4041</div>
+                                        <div class="message">wip</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/sbv-3077</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eefb4fa</div>
-                                        <div class="message">fix: layout shift in team logo section</div>
+                                        <div class="sha">#7e5098b</div>
+                                        <div class="message">fix: logic for getting game list in sportsbook competitions</div>
                                     </div>
                                 </div>
                             </section>
