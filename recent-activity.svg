@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d7dcc3e</div>
-                                        <div class="message">feat: setup jest env</div>
+                                        <div class="sha">#f03920c</div>
+                                        <div class="message">chore: version</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b342ec0</div>
-                                        <div class="message">feat: rename to js-queries</div>
+                                        <div class="sha">#062a75d</div>
+                                        <div class="message">feat: add tests</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/js-query</span>
+                                        <span class="repo">m-avagyan/js-queries</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9f76f5d</div>
-                                        <div class="message">feat: add readme</div>
+                                        <div class="sha">#d7dcc3e</div>
+                                        <div class="message">feat: setup jest env</div>
                                     </div>
                                 </div>
                             </section>
