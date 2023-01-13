@@ -23,11 +23,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#1779 Sbv 3580</span>
+                                        <span class="issue">#1754 feat(Hamed/SBV-3563): add free icon to Accumulator Bonus</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Jora93 in <span class="repo">ucraft-com/springbuilder-x</span></div>
+                                    <div>opened by aprin1991 in <span class="repo">ucraft-com/springbuilder-x</span></div>
                                 </div>
                             </section>
                         </div>
@@ -45,8 +45,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sbv-3662</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9161d57</div>
-                                        <div class="message">fix: layout issue</div>
+                                        <div class="sha">#fa329db</div>
+                                        <div class="message">feat: fav team games back end calls</div>
                                     </div>
                                 </div>
                             </section>
@@ -65,8 +65,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sbv-3662</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fce19bb</div>
-                                        <div class="message">fix: views issue for fav team</div>
+                                        <div class="sha">#b1131ac</div>
+                                        <div class="message">fix: sportsbook game count data getting</div>
                                     </div>
                                 </div>
                             </section>
