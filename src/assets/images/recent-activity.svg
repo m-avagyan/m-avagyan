@@ -29,13 +29,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b08894</div>
-                                        <div class="message">Merge pull request #29 from m-avagyan/dev
+                                        <div class="sha">#e2dfb67</div>
+                                        <div class="message">Merge pull request #30 from m-avagyan/dev
 
 Dev</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e750a0b</div>
+                                        <div class="sha">#24a9e7b</div>
                                         <div class="message">test: deployment</div>
                                     </div>
                                 </div>
@@ -49,12 +49,12 @@ Dev</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#29 Dev</span>
+                                        <span class="issue">#30 Dev</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">m-avagyan/m-avagyan</span></div>
-                                    <div>1 file changed <span class="code">++5 --5</span></div>
+                                    <div>1 file changed <span class="code">++3 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -66,12 +66,12 @@ Dev</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#29 Dev</span>
+                                        <span class="issue">#30 Dev</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">m-avagyan/m-avagyan</span></div>
-                                    <div>1 file changed <span class="code">++5 --5</span></div>
+                                    <div>1 file changed <span class="code">++3 --1</span></div>
                                 </div>
                             </section>
                         </div>
