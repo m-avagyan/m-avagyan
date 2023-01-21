@@ -1,27 +1,38 @@
 import React from "react";
 
+import HeaderImage from "images/header.svg";
+import RepositoriesImage from "images/repositories.svg";
+import ActivityCommunityImage from "images/activity-community.svg";
+import RecentActivityImage from "images/recent-activity.svg";
+import LanguagesImage from "images/languages.svg";
+import AchievementsImage from "images/achievements.svg";
+
+import classes from "./App.module.css";
+
 function App() {
   return (
-    <table
-      cellSpacing="0"
-      cellPadding="0"
-      style={{ borderCollapse: "collapse", borderSpacing: "none" }}
-    >
-      <tbody>
-        <tr style={{ border: "none" }}>
-          <td width="400px" style={{ border: "noe", verticalAlign: "top" }}>
-            <img src="https://github.com/m-avagyan/m-avagyan/blob/master/src/public/images/header.svg" />
-            <img src="https://github.com/m-avagyan/m-avagyan/blob/master/src/public/images/repositories.svg" />
-            <img src="https://github.com/m-avagyan/m-avagyan/blob/master/src/public/images/activity-community.svg" />
-            <img src="https://github.com/m-avagyan/m-avagyan/blob/master/src/public/images/recent-activity.svg" />
-          </td>
-          <td width="400px" style={{ border: "noe", verticalAlign: "top" }}>
-            <img src="https://github.com/m-avagyan/m-avagyan/blob/master/src/public/images/languages.svg" />
-            <img src="https://github.com/m-avagyan/m-avagyan/blob/master/src/public/images/achievements.svg" />
-          </td>
-        </tr>
-      </tbody>
-    </table>
+    <div className={classes.app}>
+      <table
+        cellSpacing="0"
+        cellPadding="0"
+        style={{ borderCollapse: "collapse", borderSpacing: "none" }}
+      >
+        <tbody>
+          <tr style={{ border: "none" }}>
+            <td width="400px" style={{ border: "noe", verticalAlign: "top" }}>
+              <HeaderImage />
+              <RepositoriesImage />
+              <ActivityCommunityImage />
+              <RecentActivityImage />
+            </td>
+            <td width="400px" style={{ border: "noe", verticalAlign: "top" }}>
+              <LanguagesImage />
+              <AchievementsImage />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   );
 }
 
