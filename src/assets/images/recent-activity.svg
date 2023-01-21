@@ -29,14 +29,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ab9be99</div>
-                                        <div class="message">Merge pull request #28 from m-avagyan/dev
+                                        <div class="sha">#9b08894</div>
+                                        <div class="message">Merge pull request #29 from m-avagyan/dev
 
-test: gh actions</div>
+Dev</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4ceb1d4</div>
-                                        <div class="message">test: gh actions</div>
+                                        <div class="sha">#e750a0b</div>
+                                        <div class="message">test: deployment</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,12 +49,12 @@ test: gh actions</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#28 test: gh actions</span>
+                                        <span class="issue">#29 Dev</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">m-avagyan/m-avagyan</span></div>
-                                    <div>1 file changed <span class="code">++5 --2</span></div>
+                                    <div>1 file changed <span class="code">++5 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -66,12 +66,12 @@ test: gh actions</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#28 test: gh actions</span>
+                                        <span class="issue">#29 Dev</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">m-avagyan/m-avagyan</span></div>
-                                    <div>1 file changed <span class="code">++5 --2</span></div>
+                                    <div>1 file changed <span class="code">++5 --5</span></div>
                                 </div>
                             </section>
                         </div>
