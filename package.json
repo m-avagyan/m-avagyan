@@ -18,9 +18,10 @@
   },
   "scripts": {
     "clean": "rm -rf ./dist",
-    "build": "yarn clean && webpack --progress --mode production",
     "start": "webpack serve --progress --mode development",
-    "watch": "webpack serve --progress --mode production"
+    "watch": "webpack serve --progress --mode production",
+    "build": "yarn clean && webpack --progress --mode production",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
@@ -30,6 +31,7 @@
     "babel-loader": "^9.1.2",
     "css-loader": "^6.7.3",
     "esbuild-loader": "^2.21.0",
+    "gh-pages": "^5.0.0",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.7.2",
     "postcss": "^8.4.21",
