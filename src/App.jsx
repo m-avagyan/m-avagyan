@@ -1,5 +1,12 @@
 import React from "react";
 
+import HeaderImage from "images/header.svg";
+import RepositoriesImage from "images/repositories.svg";
+import ActivityCommunityImage from "images/activity-community.svg";
+import RecentActivityImage from "images/recent-activity.svg";
+import LanguagesImage from "images/languages.svg";
+import AchievementsImage from "images/achievements.svg";
+
 function App() {
   return (
     <table
@@ -10,14 +17,14 @@ function App() {
       <tbody>
         <tr style={{ border: "none" }}>
           <td width="400px" style={{ border: "noe", verticalAlign: "top" }}>
-            <img src="https://github.com/m-avagyan/m-avagyan/blob/master/src/public/images/header.svg" />
-            <img src="https://github.com/m-avagyan/m-avagyan/blob/master/src/public/images/repositories.svg" />
-            <img src="https://github.com/m-avagyan/m-avagyan/blob/master/src/public/images/activity-community.svg" />
-            <img src="https://github.com/m-avagyan/m-avagyan/blob/master/src/public/images/recent-activity.svg" />
+            <HeaderImage />
+            <RepositoriesImage />
+            <ActivityCommunityImage />
+            <RecentActivityImage />
           </td>
           <td width="400px" style={{ border: "noe", verticalAlign: "top" }}>
-            <img src="https://github.com/m-avagyan/m-avagyan/blob/master/src/public/images/languages.svg" />
-            <img src="https://github.com/m-avagyan/m-avagyan/blob/master/src/public/images/achievements.svg" />
+            <LanguagesImage />
+            <AchievementsImage />
           </td>
         </tr>
       </tbody>

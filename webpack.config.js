@@ -4,12 +4,19 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 const { ESBuildMinifyPlugin } = require("esbuild-loader");
 
-module.exports = (env, { mode }) => {
+module.exports = (_env, { mode }) => {
   const isProduction = mode === "production";
 
   return {
     mode,
     entry: path.join(__dirname, "src", "index.js"),
+
+    resolve: {
+      alias: {
+        images: path.resolve(__dirname, "src/public/images/"),
+      },
+    },
+
     output: {
       path: path.resolve(__dirname, "dist"),
       filename: isProduction ? "js/[name].[chunk].js" : "js/[name].js",
@@ -27,6 +34,17 @@ module.exports = (env, { mode }) => {
               presets: ["@babel/preset-env", "@babel/preset-react"],
             },
           },
+        },
+        {
+          test: /\.svg$/,
+          use: [
+            {
+              loader: "@svgr/webpack",
+              options: {
+                native: false,
+              },
+            },
+          ],
         },
       ],
     },
