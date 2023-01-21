@@ -1,6 +1,7 @@
 const path = require("path");
 
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 const { ESBuildMinifyPlugin } = require("esbuild-loader");
 
@@ -36,6 +37,38 @@ module.exports = (_env, { mode }) => {
           },
         },
         {
+          test: /\.css$/i,
+          use: [
+            isProduction ? MiniCssExtractPlugin.loader : "style-loader",
+
+            {
+              loader: "css-loader",
+              options: {
+                importLoaders: 1,
+                modules: true,
+              },
+            },
+            {
+              loader: "postcss-loader",
+              options: {
+                postcssOptions: {
+                  plugins: [
+                    [
+                      "postcss-preset-env",
+                      {
+                        autoprefixer: {
+                          grid: true,
+                          flexbox: true,
+                        },
+                      },
+                    ],
+                  ],
+                },
+              },
+            },
+          ],
+        },
+        {
           test: /\.svg$/,
           use: [
             {
@@ -53,6 +86,7 @@ module.exports = (_env, { mode }) => {
       new HtmlWebpackPlugin({
         template: path.join(__dirname, "src", "public", "index.html"),
       }),
+      new MiniCssExtractPlugin(),
     ],
 
     optimization: {
@@ -60,7 +94,6 @@ module.exports = (_env, { mode }) => {
       minimizer: [
         new ESBuildMinifyPlugin({
           target: "es2015",
-          css: true,
         }),
       ],
     },
@@ -75,7 +108,7 @@ module.exports = (_env, { mode }) => {
     devServer: {
       host: "0.0.0.0",
       port: 3000,
-      https: true,
+      server: "https",
       historyApiFallback: true,
     },
   };
