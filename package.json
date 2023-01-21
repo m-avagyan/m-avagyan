@@ -20,7 +20,7 @@
     "clean": "rm -rf ./dist",
     "build": "yarn clean && webpack --progress --mode production",
     "start": "webpack serve --progress --mode development",
-    "start:prod": "webpack serve --progress --mode production"
+    "watch": "webpack serve --progress --mode production"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
