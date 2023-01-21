@@ -1,4 +1,5 @@
 const path = require("path");
+
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = (env, { mode }) => ({
@@ -25,4 +26,10 @@ module.exports = (env, { mode }) => ({
       template: path.join(__dirname, "src", "public", "index.html"),
     }),
   ],
+  devServer: {
+    host: "0.0.0.0",
+    port: 3000,
+    https: true,
+    historyApiFallback: true,
+  },
 });
