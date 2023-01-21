@@ -20,8 +20,8 @@
     "clean": "rm -rf ./dist",
     "start": "webpack serve --progress --mode development",
     "watch": "webpack serve --progress --mode production",
-    "build": "yarn clean && webpack --progress --mode production",
-    "deploy": "gh-pages -d build"
+    "build": "webpack --progress --mode production",
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
