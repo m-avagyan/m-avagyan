@@ -24,5 +24,8 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
-          branch: dist
-          folder: dist
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BASE_BRANCH: dist
+          BRANCH: master
+          FOLDER: dist
+          SINGLE_COMMIT: true
