@@ -17,7 +17,7 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: owner, collaborator
           config_timezone: Armenia/Yerevan
-          filename: src/assets/images/header.svg
+          filename: images/header.svg
           use_prebuilt_image: yes
       - name: activity & community
         uses: lowlighter/metrics@latest
@@ -28,7 +28,7 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: owner, collaborator
           config_timezone: Armenia/Yerevan
-          filename: src/assets/images/activity-community.svg
+          filename: images/activity-community.svg
           use_prebuilt_image: yes
       - name: repositories
         uses: lowlighter/metrics@latest
@@ -39,7 +39,7 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: owner, collaborator
           config_timezone: Armenia/Yerevan
-          filename: src/assets/images/repositories.svg
+          filename: images/repositories.svg
           use_prebuilt_image: yes
           plugin_lines: yes
       - name: recent activity
@@ -51,7 +51,7 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: owner, collaborator
           config_timezone: Armenia/Yerevan
-          filename: src/assets/images/recent-activity.svg
+          filename: images/recent-activity.svg
           plugin_activity: yes
           plugin_activity_limit: 3
           plugin_activity_days: 0
@@ -65,7 +65,7 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: owner, collaborator
           config_timezone: Armenia/Yerevan
-          filename: src/assets/images/languages.svg
+          filename: images/languages.svg
           use_prebuilt_image: yes
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
@@ -78,7 +78,7 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: owner, collaborator, organization_member
           config_timezone: Armenia/Yerevan
-          filename: src/assets/images/achievements.svg
+          filename: images/achievements.svg
           use_prebuilt_image: yes
           plugin_achievements: yes
           plugin_achievements_threshold: B
