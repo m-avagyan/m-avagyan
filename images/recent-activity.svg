@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/sbv-3567</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c29bd84</div>
-                                        <div class="message">fix: minor fixes</div>
+                                        <div class="sha">#80f5f38</div>
+                                        <div class="message">refactor: move main markets var to constants</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/sbv-3567</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dbd28b5</div>
-                                        <div class="message">feat: enable iunfavorite action from favorites</div>
+                                        <div class="sha">#02cccee</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/sbv-3567</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e5aafe5</div>
-                                        <div class="message">feat: competitions favorite handling</div>
+                                        <div class="sha">#25504ab</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
