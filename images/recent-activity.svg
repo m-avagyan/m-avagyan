@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="199" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="216" class="">
     <defs>
         <style/>
     </defs>
@@ -22,15 +22,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">sbv-3487</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7d5c811</div>
-                                        <div class="message">feat: rtl for games</div>
+                                        <div class="sha">#c89aaac</div>
+                                        <div class="message">feat: subscription for events</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f6a3e8</div>
+                                        <div class="message">feat: add event type</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,11 +47,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#1881 SBV-4004 - Forecast/ Tricast - Lost Alignment</span>
+                                        <span class="issue">#1895 SBV-3639 changed the "Income Source" field behaviour for Ontario regu…</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by HaykSahakyanUcraft in <span class="repo">ucraft-com/springbuilder-x</span></div>
+                                    <div>opened by nahapet-sb in <span class="repo">ucraft-com/springbuilder-x</span></div>
                                 </div>
                             </section>
                         </div>
@@ -59,11 +63,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#1885 Hamed/SBV-3956: Add 72 hours in Time Out Section for Cyprus Regulation</span>
+                                        <span class="issue">#1877 Gor/sbv 3735 favorite team eu</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by aprin1991 in <span class="repo">ucraft-com/springbuilder-x</span></div>
+                                    <div>opened by GorHarutyunyan in <span class="repo">ucraft-com/springbuilder-x</span></div>
                                 </div>
                             </section>
                         </div>
