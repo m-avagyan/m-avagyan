@@ -27,10 +27,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">feature/coming-soon</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5729f51</div>
-                                        <div class="message">feat: final configs for eslint and prettier</div>
+                                        <div class="sha">#4eb00fe</div>
+                                        <div class="message">feat: add shadows in theme type</div>
                                     </div>
                                 </div>
                             </section>
@@ -47,10 +47,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">feature/coming-soon</span></div>
                                     <div class="commit">
-                                        <div class="sha">#be4ffe9</div>
-                                        <div class="message">feat: add global styles</div>
+                                        <div class="sha">#b48ccac</div>
+                                        <div class="message">fix: add bg color to body</div>
                                     </div>
                                 </div>
                             </section>
@@ -67,10 +67,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">feature/coming-soon</span></div>
                                     <div class="commit">
-                                        <div class="sha">#abf0520</div>
-                                        <div class="message">feat: add hooks dir</div>
+                                        <div class="sha">#5e0dd2f</div>
+                                        <div class="message">fix: global styles</div>
                                     </div>
                                 </div>
                             </section>
