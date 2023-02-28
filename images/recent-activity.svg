@@ -27,10 +27,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">sr/game-list</span></div>
+                                    <div>on branch <span class="code">sr/live-game-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#903ddbc</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#87ea8be</div>
+                                        <div class="message">feat: add live configs for where object</div>
                                     </div>
                                 </div>
                             </section>
@@ -47,10 +47,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">sr/game-list</span></div>
+                                    <div>on branch <span class="code">sr/live-game-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5835e68</div>
-                                        <div class="message">feat: replace react state to redux for markets count</div>
+                                        <div class="sha">#2480cbb</div>
+                                        <div class="message">feat: add page type prop for sports game list</div>
                                     </div>
                                 </div>
                             </section>
@@ -67,10 +67,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">sr/game-list</span></div>
+                                    <div>on branch <span class="code">sr/live-game-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6b367da</div>
-                                        <div class="message">feat: replace react state to redux</div>
+                                        <div class="sha">#4c74395</div>
+                                        <div class="message">fix: do not set data if backend response is equal to selector</div>
                                     </div>
                                 </div>
                             </section>
