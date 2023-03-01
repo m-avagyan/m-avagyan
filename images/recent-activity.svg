@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sr/live-game-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#87ea8be</div>
-                                        <div class="message">feat: add live configs for where object</div>
+                                        <div class="sha">#c8c9d21</div>
+                                        <div class="message">wip</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sr/live-game-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2480cbb</div>
-                                        <div class="message">feat: add page type prop for sports game list</div>
+                                        <div class="sha">#c147286</div>
+                                        <div class="message">feat: add header skeleton for prematch</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sr/live-game-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4c74395</div>
-                                        <div class="message">fix: do not set data if backend response is equal to selector</div>
+                                        <div class="sha">#25127e4</div>
+                                        <div class="message">feat: desktop styles</div>
                                     </div>
                                 </div>
                             </section>
