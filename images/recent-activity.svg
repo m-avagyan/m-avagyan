@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="249" class="">
     <defs>
         <style/>
     </defs>
@@ -22,15 +22,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">sr/live-game-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0e39d32</div>
-                                        <div class="message">feat: enable single game view in mobile live</div>
+                                        <div class="sha">#b1e9330</div>
+                                        <div class="message">feat: game details for prematch game list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1dcbbf8</div>
+                                        <div class="message">fix: handle redirect for live game</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +53,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sr/live-game-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d86297f</div>
-                                        <div class="message">feat: implementation of show region icon</div>
+                                        <div class="sha">#939cd0a</div>
+                                        <div class="message">feat: handling the details to every group for live games</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +73,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sr/live-game-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5041e57</div>
-                                        <div class="message">fix: scroll to top in updates</div>
+                                        <div class="sha">#17a0e6e</div>
+                                        <div class="message">feat: change details getting logic from game list</div>
                                     </div>
                                 </div>
                             </section>
