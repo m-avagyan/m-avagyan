@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sr/live-game-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b9a6fac</div>
-                                        <div class="message">wip</div>
+                                        <div class="sha">#0e39d32</div>
+                                        <div class="message">feat: enable single game view in mobile live</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sr/live-game-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3f9172b</div>
-                                        <div class="message">wip</div>
+                                        <div class="sha">#d86297f</div>
+                                        <div class="message">feat: implementation of show region icon</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sr/live-game-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d5c9d18</div>
-                                        <div class="message">wip</div>
+                                        <div class="sha">#5041e57</div>
+                                        <div class="message">fix: scroll to top in updates</div>
                                     </div>
                                 </div>
                             </section>
