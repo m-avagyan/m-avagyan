@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sportsbook-refactoring</span></div>
                                     <div class="commit">
-                                        <div class="sha">#78c70f7</div>
-                                        <div class="message">fix: gamids caching</div>
+                                        <div class="sha">#ea6a305</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sportsbook-refactoring</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9c69dc2</div>
-                                        <div class="message">fix: remove unused variables</div>
+                                        <div class="sha">#405fa23</div>
+                                        <div class="message">fix: eslint</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sportsbook-refactoring</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a88e3de</div>
-                                        <div class="message">fix: gamids caching</div>
+                                        <div class="sha">#772ee91</div>
+                                        <div class="message">feat: enable fav team route</div>
                                     </div>
                                 </div>
                             </section>
