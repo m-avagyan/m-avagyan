@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sportsbook-refactoring</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ea6a305</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#ce1d223</div>
+                                        <div class="message">feat: configure sportsbook game list for favorite team games</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sportsbook-refactoring</span></div>
                                     <div class="commit">
-                                        <div class="sha">#405fa23</div>
-                                        <div class="message">fix: eslint</div>
+                                        <div class="sha">#f6bffa6</div>
+                                        <div class="message">feat: configure where object for favorite team calls</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">sportsbook-refactoring</span></div>
                                     <div class="commit">
-                                        <div class="sha">#772ee91</div>
-                                        <div class="message">feat: enable fav team route</div>
+                                        <div class="sha">#6576733</div>
+                                        <div class="message">feat: seperate the team and today events routes</div>
                                     </div>
                                 </div>
                             </section>
