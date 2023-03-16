@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="249" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/site</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ae26585</div>
+                                        <div class="sha">#0908ca6</div>
                                         <div class="message">feat: update readme</div>
                                     </div>
                                 </div>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/site</span></div>
                                     <div class="commit">
-                                        <div class="sha">#786cd77</div>
-                                        <div class="message">fix: remove shadow effect from button component</div>
+                                        <div class="sha">#c67fb6e</div>
+                                        <div class="message">fix: navigation</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,19 +62,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">m-avagyan/martik-avagyan-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">feature/site</span></div>
                                     <div class="commit">
-                                        <div class="sha">#89fed7f</div>
-                                        <div class="message">feat: add disabled styles for button component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fbe93d</div>
-                                        <div class="message">feat: add widgets alias</div>
+                                        <div class="sha">#f1b92a9</div>
+                                        <div class="message">feat: navigation routes</div>
                                     </div>
                                 </div>
                             </section>
