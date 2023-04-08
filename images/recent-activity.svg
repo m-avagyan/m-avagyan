@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="482" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0720644</div>
+                                        <div class="message">test: add page widget skeleton</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -48,90 +68,6 @@
                                     <div class="commit">
                                         <div class="sha">#6cf6e96</div>
                                         <div class="message">fix: pkg josn</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 16 commits in
-                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#40be173</div>
-                                        <div class="message">Merge pull request #55 from m-avagyan/dev
-
-Dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b4c77b</div>
-                                        <div class="message">test: performance without ga script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2424df9</div>
-                                        <div class="message">feat: update noscript content</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#344def7</div>
-                                        <div class="message">feat: add ads.txt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e1bfe9</div>
-                                        <div class="message">feat: merge branch resume-hashtags</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d280054</div>
-                                        <div class="message">feat: add ga script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bfdc74b</div>
-                                        <div class="message">Merge pull request #51 from m-avagyan/feature/resume
-
-Resume and Hashtags Section</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce4f2fe</div>
-                                        <div class="message">feat: merge branch master</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac13fea</div>
-                                        <div class="message">feat: merge branch dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#137c2b6</div>
-                                        <div class="message">feat: merge branch dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f8630e</div>
-                                        <div class="message">feat: merge branch dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8783ec8</div>
-                                        <div class="message">feat: add initial version of hashtags section</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b49ad6</div>
-                                        <div class="message">feat: add initial version of hashtags section</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf35cf8</div>
-                                        <div class="message">fix: social media section styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4decfad</div>
-                                        <div class="message">feat: add initial version of resume section</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e77fc5</div>
-                                        <div class="message">feat: add initial version of resume section</div>
                                     </div>
                                 </div>
                             </section>
