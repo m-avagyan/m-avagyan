@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/event-element-refactoring</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c3dbadd</div>
-                                        <div class="message">fix: market button bg and border colors</div>
+                                        <div class="sha">#825752c</div>
+                                        <div class="message">feat: sports menu</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/event-element-refactoring</span></div>
                                     <div class="commit">
-                                        <div class="sha">#145d91c</div>
-                                        <div class="message">feat: add rtl styles for sports menu</div>
+                                        <div class="sha">#ee73241</div>
+                                        <div class="message">fix: remove consoles</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/event-element-refactoring</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c2f1347</div>
-                                        <div class="message">feat: add sports menu fill skeleton</div>
+                                        <div class="sha">#0790cc1</div>
+                                        <div class="message">fix: games empty view showing cases</div>
                                     </div>
                                 </div>
                             </section>
