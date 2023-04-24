@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c66c011</div>
-                                        <div class="message">fix: skeleton themes</div>
+                                        <div class="sha">#a3a1df9</div>
+                                        <div class="message">feat: files loading</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6ccf75e</div>
-                                        <div class="message">wip: add initial version of skeleton component</div>
+                                        <div class="sha">#fcb117c</div>
+                                        <div class="message">fix: webpack configs</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e9be5e9</div>
-                                        <div class="message">feat: page with fake data</div>
+                                        <div class="sha">#e1f647f</div>
+                                        <div class="message">fix: site initial configs</div>
                                     </div>
                                 </div>
                             </section>
