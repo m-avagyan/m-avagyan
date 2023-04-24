@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7749de3</div>
-                                        <div class="message">revert: test changes</div>
+                                        <div class="sha">#c66c011</div>
+                                        <div class="message">fix: skeleton themes</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5df054e</div>
-                                        <div class="message">feat: theme switching and configs</div>
+                                        <div class="sha">#6ccf75e</div>
+                                        <div class="message">wip: add initial version of skeleton component</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9d24509</div>
-                                        <div class="message">fix: remove unused files</div>
+                                        <div class="sha">#e9be5e9</div>
+                                        <div class="message">feat: page with fake data</div>
                                     </div>
                                 </div>
                             </section>
