@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feature/typography</span></div>
+                                    <div>on branch <span class="code">martik/sbv-4860</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fa0a69e</div>
-                                        <div class="message">fix: sort routes</div>
+                                        <div class="sha">#ba48915</div>
+                                        <div class="message">feat: intial logic of getting the suggested bets</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/martik-avagyan-server</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">martik/sbv-4860</span></div>
                                     <div class="commit">
-                                        <div class="sha">#32bff54</div>
-                                        <div class="message">feat: add swagger docs to API</div>
+                                        <div class="sha">#3465fa0</div>
+                                        <div class="message">fix: data destructuring</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/martik-avagyan-server</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">martik/sbv-4860</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2ae4c5c</div>
-                                        <div class="message">feat: add swagger docs to API</div>
+                                        <div class="sha">#3f18d73</div>
+                                        <div class="message">fix: ordering the events</div>
                                     </div>
                                 </div>
                             </section>
