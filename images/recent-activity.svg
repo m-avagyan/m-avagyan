@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#2608 SBV-4758 [ Martik ]</span>
+                                        <span class="issue">#2615 SBV-4879 [ Harut ]</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">ucraft-com/springbuilder-x</span></div>
-                                    <div>2 files changed <span class="code">++5 --8</span></div>
+                                    <div>1 file changed <span class="code">++44 --30</span></div>
                                 </div>
                             </section>
                         </div>
@@ -41,7 +41,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">martik/sbv-4758</span>
+                                        <span class="code">harut/sbv-4879</span>
                                         in
                                         <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
@@ -56,11 +56,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#2604 gabriel/SBV-5027</span>
+                                        <span class="issue">#2607 show bonus count in bonuses</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by gabriel-boyajyan in <span class="repo">ucraft-com/springbuilder-x</span></div>
+                                    <div>opened by harutyunUcraft in <span class="repo">ucraft-com/springbuilder-x</span></div>
                                 </div>
                             </section>
                         </div>
