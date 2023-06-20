@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/unit-tests-for-react-components</span></div>
                                     <div class="commit">
-                                        <div class="sha">#25f5fb7</div>
-                                        <div class="message">fix: add env checking for ci/cd mode</div>
+                                        <div class="sha">#0ccf833</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/unit-tests-for-react-components</span></div>
                                     <div class="commit">
-                                        <div class="sha">#76e492d</div>
-                                        <div class="message">wip</div>
+                                        <div class="sha">#535513e</div>
+                                        <div class="message">fix: add timeout for waitfor method</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/unit-tests-for-react-components</span></div>
                                     <div class="commit">
-                                        <div class="sha">#440e136</div>
-                                        <div class="message">fix: account info unit test</div>
+                                        <div class="sha">#33ebbdd</div>
+                                        <div class="message">test</div>
                                     </div>
                                 </div>
                             </section>
