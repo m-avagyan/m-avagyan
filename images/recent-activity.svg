@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="549" class="">
     <defs>
         <style/>
     </defs>
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">initial-site</span></div>
+                                    <div>on branch <span class="code">martik/sbv-5085</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c7e8d54</div>
-                                        <div class="message">wip: site routing</div>
+                                        <div class="sha">#b87b9d0</div>
+                                        <div class="message">fix: game skeleton for live games</div>
                                     </div>
                                 </div>
                             </section>
@@ -47,10 +47,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/unit-tests-for-react-components</span></div>
+                                    <div>on branch <span class="code">martik/sbv-5085</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ac983f4</div>
-                                        <div class="message">test</div>
+                                        <div class="sha">#9111693</div>
+                                        <div class="message">fix: show correct count of the tab if boosted odds config is off</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,15 +62,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 893 commits in
                                         <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/unit-tests-for-react-components</span></div>
+                                    <div>on branch <span class="code">martik/sbv-5085</span></div>
                                     <div class="commit">
-                                        <div class="sha">#80a96f6</div>
-                                        <div class="message">fix: remove unused mocks</div>
+                                        <div class="sha">#cad09ec</div>
+                                        <div class="message">[SBV-4955] some changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#597781f</div>
+                                        <div class="message">[SBV-4955] Merge branch 'develop_69' of github.com:ucraft-com/springbuilder-x into SBV-4955</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53fcfe4</div>
+                                        <div class="message">[SBV-4955] some html and css changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4909c0f</div>
+                                        <div class="message">[SBV-4955] fix some issues after my code self-check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e233c7f</div>
+                                        <div class="message">[SBV-4955] fix some issues after my code self-check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce1af14</div>
+                                        <div class="message">hided share button for BB bets</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ada5579</div>
+                                        <div class="message">[SBV-4955] fix code review comments</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81a8985</div>
+                                        <div class="message">[SBV-4955] fix some issues after my code self-check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a42dff0</div>
+                                        <div class="message">[SBV-4955] fix code review comments</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b5e587</div>
+                                        <div class="message">[SBV-4955] fix some issues after my code self-check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6054bab</div>
+                                        <div class="message">[SBV-4955] css fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db18417</div>
+                                        <div class="message">[SBV-4955] Merge branch 'develop_69' of github.com:ucraft-com/springbuilder-x into SBV-4955</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67b5efc</div>
+                                        <div class="message">[SBV-4955] add pistol head to head layout for desktop and mobile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aafbee8</div>
+                                        <div class="message">[SBV-4955] change component names</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fccc01</div>
+                                        <div class="message">[SBV-4955] add new MatchInfoCard layout for pistol shooting individual</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fda7e17</div>
+                                        <div class="message">[SBV-4955] add pistol shooting images</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b130f6</div>
+                                        <div class="message">Merge branch 'develop_69' of https://github.com/ucraft-com/springbuilder-x into martik/sbv-2344</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e068e5</div>
+                                        <div class="message">fix: remove unused imports</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e41e8d3</div>
+                                        <div class="message">fix: remove unnecss deps and callback from betslip</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1ecf71</div>
+                                        <div class="message">fix: ts issues</div>
                                     </div>
                                 </div>
                             </section>
