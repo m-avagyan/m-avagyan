@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">martik/sbv-5447-new</span></div>
                                     <div class="commit">
-                                        <div class="sha">#90aec7a</div>
-                                        <div class="message">fix: remove unnecessary title tags</div>
+                                        <div class="sha">#58631a0</div>
+                                        <div class="message">feat: handling new configs logic for mobile</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">martik/sbv-5447-new</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f7b9f41</div>
-                                        <div class="message">feat: initial version of theme</div>
+                                        <div class="sha">#4d26e43</div>
+                                        <div class="message">feat: implement new configs for desktop view</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">martik/sbv-5447-new</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9a175de</div>
-                                        <div class="message">fix: remove unused files</div>
+                                        <div class="sha">#f305885</div>
+                                        <div class="message">feat: add new config types</div>
                                     </div>
                                 </div>
                             </section>
