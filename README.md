@@ -12,5 +12,8 @@
       <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/recent-activity.svg">
     </td>
   </tr>
+  <tr style="border: none;">
+    <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/google-page-speed.svg">      
+  </tr>
   </tbody>
 </table>
