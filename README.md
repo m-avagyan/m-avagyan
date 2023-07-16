@@ -3,13 +3,13 @@
   <tr style="border: none;">
     <td width="400px" style="border: none; vertical-align: top;">
       <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/header.svg">
-      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/repositories.svg">
-      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/activity-community.svg">
-      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/recent-activity.svg">
+      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/google-page-speed.svg">      
     </td>
     <td width="400px" style="border: none; vertical-align: top;">
+      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/activity-community.svg">
+      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/repositories.svg">
       <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/languages.svg">
-      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/google-page-speed.svg">
+      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/recent-activity.svg">
     </td>
   </tr>
   </tbody>
