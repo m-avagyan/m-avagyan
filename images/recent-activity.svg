@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7346d6b</div>
-                                        <div class="message">temporary remove achievements plugin</div>
+                                        <div class="sha">#17872e9</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#43a7a65</div>
-                                        <div class="message">feat: add google page speed plugin</div>
+                                        <div class="sha">#eb8c1f5</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
+                                        <span class="repo">m-avagyan/m-avagyan</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ddd4266</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/m-avagyan/martik-avagyan-client into dev</div>
+                                        <div class="sha">#1955a64</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
