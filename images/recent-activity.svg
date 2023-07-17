@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/m-avagyan</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/sbv-5447-new</span></div>
                                     <div class="commit">
-                                        <div class="sha">#56ac8ac</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#06edd67</div>
+                                        <div class="message">feat: new version of jackpot main</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/m-avagyan</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/sbv-5447-new</span></div>
                                     <div class="commit">
-                                        <div class="sha">#17872e9</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#4fb4d1f</div>
+                                        <div class="message">fix: add type for current jackpot id initial state</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/m-avagyan</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/sbv-5447-new</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eb8c1f5</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#ee5fe07</div>
+                                        <div class="message">feat: add current jackpot selector in store</div>
                                     </div>
                                 </div>
                             </section>
