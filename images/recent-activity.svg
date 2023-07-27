@@ -27,9 +27,9 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">revert-3250-revert-3235-martik/sbv-5727</span></div>
+                                    <div>on branch <span class="code">unknown/sbv-5636</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f313da4</div>
+                                        <div class="sha">#560ce58</div>
                                         <div class="message">fix</div>
                                     </div>
                                 </div>
@@ -42,15 +42,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">revert-3250-revert-3235-martik/sbv-5727</span></div>
+                                    <div>on branch <span class="code">martik/sbv-5731</span></div>
                                     <div class="commit">
-                                        <div class="sha">#849eacc</div>
-                                        <div class="message">Merge branch 'develop_74' of https://github.com/ucraft-com/springbuilder-x into revert-3250-revert-3235-martik/sbv-5727</div>
+                                        <div class="sha">#b2ef73e</div>
+                                        <div class="message">test commit</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,15 +62,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 9 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/sbv-5731</span></div>
+                                    <div>on branch <span class="code">revert-3250-revert-3235-martik/sbv-5727</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c70c39a</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/ucraft-com/springbuilder-x into martik/sbv-5731</div>
+                                        <div class="sha">#f313da4</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
