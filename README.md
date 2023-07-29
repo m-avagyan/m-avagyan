@@ -9,7 +9,7 @@
     </td>
     <td width="400px" style="border: none; vertical-align: top;">
       <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/languages.svg">
-      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/achievement.svg">      
+      <img src="https://github.com/m-avagyan/m-avagyan/blob/master/images/google-page-speed.svg">      
     </td>
   </tr>
   </tbody>
