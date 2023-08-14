@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -22,27 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">spring-next-package</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9fbaec0</div>
-                                        <div class="message">wip: add separated tsconfig for pkg</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce3324d</div>
-                                        <div class="message">wip: add dist to gitignore tmpl</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#030e1d6</div>
-                                        <div class="message">wip: add vite deps and create next-build script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f877d8f</div>
-                                        <div class="message">wip: bundling using vite</div>
+                                        <div class="sha">#cae8ea7</div>
+                                        <div class="message">wip: types declaration in file structure implementation</div>
                                     </div>
                                 </div>
                             </section>
@@ -61,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">spring-next-package</span></div>
                                     <div class="commit">
-                                        <div class="sha">#51087e7</div>
-                                        <div class="message">fix: tsconfigs</div>
+                                        <div class="sha">#07db3d3</div>
+                                        <div class="message">wip: add css styles support for pkg</div>
                                     </div>
                                 </div>
                             </section>
@@ -81,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">spring-next-package</span></div>
                                     <div class="commit">
-                                        <div class="sha">#42aae91</div>
-                                        <div class="message">fix: ts configs</div>
+                                        <div class="sha">#574037f</div>
+                                        <div class="message">wip: make inputs definaction depend entries</div>
                                     </div>
                                 </div>
                             </section>
