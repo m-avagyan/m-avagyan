@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">spring-next-package</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#42d35d1</div>
-                                        <div class="message">feat: refactor global icon with new logic</div>
+                                        <div class="sha">#5ee08d1</div>
+                                        <div class="message">chore: bump version</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">spring-next-package</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#84104df</div>
-                                        <div class="message">fix: gitignore tmpl</div>
+                                        <div class="sha">#9383530</div>
+                                        <div class="message">fix: replace medium url</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">spring-next-package</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#66eab80</div>
-                                        <div class="message">feat: add generated icons path to gitignore tmpl</div>
+                                        <div class="sha">#07ed5e1</div>
+                                        <div class="message">Merge branch 'dev' of https://github.com/m-avagyan/martik-avagyan-client into dev</div>
                                     </div>
                                 </div>
                             </section>
