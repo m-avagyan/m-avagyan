@@ -27,10 +27,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">improvement/3</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#504052f</div>
-                                        <div class="message">feat: mobile layout implementation for initial view</div>
+                                        <div class="sha">#7d64e7d</div>
+                                        <div class="message">fix: mobile version experience page</div>
                                     </div>
                                 </div>
                             </section>
@@ -47,10 +47,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">improvement/3</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#98fe94a</div>
-                                        <div class="message">fix: media query hook</div>
+                                        <div class="sha">#6f36d94</div>
+                                        <div class="message">fix: skills page mobile</div>
                                     </div>
                                 </div>
                             </section>
@@ -67,10 +67,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">improvement/3</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#834fc2e</div>
-                                        <div class="message">fix: site mobile version for local development</div>
+                                        <div class="sha">#ec7b8fd</div>
+                                        <div class="message">fix: layout mobile</div>
                                     </div>
                                 </div>
                             </section>
