@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="549" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -22,93 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 64 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">m-avagyan/martik-avagyan-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#856b795</div>
-                                        <div class="message">fix: media query hook rendering process</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3d500a</div>
-                                        <div class="message">fix: about me page mobile version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d64e7d</div>
-                                        <div class="message">fix: mobile version experience page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f36d94</div>
-                                        <div class="message">fix: skills page mobile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec7b8fd</div>
-                                        <div class="message">fix: layout mobile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a79bbe</div>
-                                        <div class="message">fix: mobile page loader</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f5f4b7</div>
-                                        <div class="message">test: temporary disable dev release action</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3413119</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/m-avagyan/martik-avagyan-client into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2dce482</div>
-                                        <div class="message">Merge pull request #94 from m-avagyan/improvement/3
-
-PWA and Mobile View</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b26b647</div>
-                                        <div class="message">feat: mobile version of full screen pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82e6c99</div>
-                                        <div class="message">feat: full screen pages mobile version styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3063f6c</div>
-                                        <div class="message">feat: refactor full screen pages part 2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2853af</div>
-                                        <div class="message">feat: refactor full screen pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#504052f</div>
-                                        <div class="message">feat: mobile layout implementation for initial view</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98fe94a</div>
-                                        <div class="message">fix: media query hook</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#834fc2e</div>
-                                        <div class="message">fix: site mobile version for local development</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2859e7a</div>
-                                        <div class="message">fix: sw</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66d8626</div>
-                                        <div class="message">fix: register sw only for production mode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96f1c76</div>
-                                        <div class="message">fix: some issues related pwa working</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8874ef</div>
-                                        <div class="message">feat: pwa implementation test</div>
+                                        <div class="sha">#77f1f62</div>
+                                        <div class="message">fix: nocache webp files with pwa</div>
                                     </div>
                                 </div>
                             </section>
@@ -127,8 +49,8 @@ PWA and Mobile View</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3ff2d76</div>
-                                        <div class="message">feat: update changelog</div>
+                                        <div class="sha">#2df8a23</div>
+                                        <div class="message">fix: cache webp files with pwa</div>
                                     </div>
                                 </div>
                             </section>
@@ -147,8 +69,8 @@ PWA and Mobile View</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#74f6050</div>
-                                        <div class="message">test: pwa</div>
+                                        <div class="sha">#aca669f</div>
+                                        <div class="message">fix: html meta theme color</div>
                                     </div>
                                 </div>
                             </section>
