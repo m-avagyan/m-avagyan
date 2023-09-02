@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#77f1f62</div>
-                                        <div class="message">fix: nocache webp files with pwa</div>
+                                        <div class="sha">#7938a48</div>
+                                        <div class="message">fix: pwa advanced configs</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2df8a23</div>
-                                        <div class="message">fix: cache webp files with pwa</div>
+                                        <div class="sha">#5fef6cf</div>
+                                        <div class="message">fix: pwa advanced configs</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aca669f</div>
-                                        <div class="message">fix: html meta theme color</div>
+                                        <div class="sha">#390b76a</div>
+                                        <div class="message">fix: pwa advanced configs</div>
                                     </div>
                                 </div>
                             </section>
