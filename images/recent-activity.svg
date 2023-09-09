@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/sbv-5447-new</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#beccf14</div>
-                                        <div class="message">feat: use new jackpot element in sportsbook</div>
+                                        <div class="sha">#e0f2761</div>
+                                        <div class="message">test: sw caching</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/sbv-5447-new</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d6a5b54</div>
-                                        <div class="message">feat: jackpot with sizing</div>
+                                        <div class="sha">#317cfbe</div>
+                                        <div class="message">test: sw caching</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/sbv-5447-new</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#431f8ae</div>
-                                        <div class="message">feat: jackpot element with font sizing</div>
+                                        <div class="sha">#7e0b7ef</div>
+                                        <div class="message">test: sw caching</div>
                                     </div>
                                 </div>
                             </section>
