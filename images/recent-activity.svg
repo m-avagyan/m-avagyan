@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">MZBOsL5o</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ad96582</div>
-                                        <div class="message">feat: mobile header layout initial version</div>
+                                        <div class="sha">#c993811</div>
+                                        <div class="message">fix: remove coming soon page</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">MZBOsL5o</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9cacf8a</div>
-                                        <div class="message">feat: top button implementation</div>
+                                        <div class="sha">#4afb769</div>
+                                        <div class="message">fix: pagespeed issues</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">MZBOsL5o</span></div>
                                     <div class="commit">
-                                        <div class="sha">#984df1c</div>
-                                        <div class="message">feat: initial version of bottom navigation</div>
+                                        <div class="sha">#84888d6</div>
+                                        <div class="message">fix: memoization</div>
                                     </div>
                                 </div>
                             </section>
