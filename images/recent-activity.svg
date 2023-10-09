@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#3756 SBV-6463 [ Martik ]</span>
+                                        <span class="issue">#3767 SBV-5665 [ Martik ]</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">ucraft-com/springbuilder-x</span></div>
-                                    <div>2 files changed <span class="code">++15 --7</span></div>
+                                    <div>1 file changed <span class="code">++82 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -41,7 +41,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">martik/sbv-6463</span>
+                                        <span class="code">martik/sbv-5665</span>
                                         in
                                         <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
@@ -60,10 +60,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/sbv-6454</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a451480</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/ucraft-com/springbuilder-x</div>
+                                        <div class="sha">#ea364a2</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
