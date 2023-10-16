@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5ec2504</div>
-                                        <div class="message">add stable version</div>
+                                        <div class="sha">#e018469</div>
+                                        <div class="message">feat: update readme</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/js-queries</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">develop_80</span></div>
                                     <div class="commit">
-                                        <div class="sha">#601b6ea</div>
-                                        <div class="message">bump version</div>
+                                        <div class="sha">#519adf1</div>
+                                        <div class="message">chore: update ts eslint plugin and parser version</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/js-queries</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/sbv-5447-new</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fee427a</div>
-                                        <div class="message">fix: output dir</div>
+                                        <div class="sha">#33597cf</div>
+                                        <div class="message">fix: eslint</div>
                                     </div>
                                 </div>
                             </section>
