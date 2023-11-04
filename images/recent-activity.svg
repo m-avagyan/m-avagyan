@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
+                                        <span class="repo">angelscloud/angelscloud-landing</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">v2</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6f34736</div>
-                                        <div class="message">wip: nextjs setup</div>
+                                        <div class="sha">#4b4588e</div>
+                                        <div class="message">wip: configurations</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">angelscloud/angelscloud-landing-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/sbv-3475</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ce4b14e</div>
-                                        <div class="message">fix: make relations for superbet and counter offer switchers</div>
+                                        <div class="sha">#4146501</div>
+                                        <div class="message">wip: configurations</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">angelscloud/angelscloud-landing-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/sbv-3475</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#848a02e</div>
-                                        <div class="message">fix: make relations for freebet and counter offer switchers</div>
+                                        <div class="sha">#c088036</div>
+                                        <div class="message">wip: configurations</div>
                                     </div>
                                 </div>
                             </section>
