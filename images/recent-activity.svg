@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="273" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">angelscloud/angelscloud-server</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-7068-casino-games-issue-with-duplicating-casino-games-2</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bbd730a</div>
-                                        <div class="message">[SBV-7068] fix</div>
+                                        <div class="sha">#e71bc7e</div>
+                                        <div class="message">fix: add validation for supported languages</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">angelscloud/angelscloud-server</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-7068-casino-games-issue-with-duplicating-casino-games-2</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1228966</div>
-                                        <div class="message">[SBV-7068] fix</div>
+                                        <div class="sha">#69ec61e</div>
+                                        <div class="message">fix: make lang field required</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">angelscloud/angelscloud-server</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-7068-casino-games-issue-with-duplicating-casino-games-2</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#83e9d28</div>
-                                        <div class="message">[SBV-7068] fix</div>
+                                        <div class="sha">#b99140b</div>
+                                        <div class="message">feat: implementation of send-contact route</div>
                                     </div>
                                 </div>
                             </section>
