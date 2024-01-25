@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="449" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -29,90 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#45e1cc7</div>
-                                        <div class="message">feat: init initial routing</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">angelscloud/angelscloud-landing</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">hero_section</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#48b1b4f</div>
-                                        <div class="message">fix: resolve conflicts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68d33b6</div>
-                                        <div class="message">refactor: section separation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3fb444</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d612427</div>
-                                        <div class="message">Revert "fix: include styling guide in main README"
-
-This reverts commit 72b97e0b3f1c312513709d1220e33ab0d9a9e769.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3fcd63</div>
-                                        <div class="message">Revert "fix: readme styles"
-
-This reverts commit 8f24179cc017000042b44c241570d5b53fba3d8c.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a4d15b</div>
-                                        <div class="message">Revert "fix: readme styles"
-
-This reverts commit 648a19d6158958204d1ebde00113ac6b88c880ba.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9bd4cb6</div>
-                                        <div class="message">Revert "fix: readme styles"
-
-This reverts commit 2409a225fd58f7535b1c80dfe6fff072f1f5f18c.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ad66bf</div>
-                                        <div class="message">Revert "wip: classnames replacing"
-
-This reverts commit 8b952aa1a6ecbec0a841fb091232623759fa1dda.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b952aa</div>
-                                        <div class="message">wip: classnames replacing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2409a22</div>
-                                        <div class="message">fix: readme styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#648a19d</div>
-                                        <div class="message">fix: readme styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f24179</div>
-                                        <div class="message">fix: readme styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72b97e0</div>
-                                        <div class="message">fix: include styling guide in main README</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb8e9cb</div>
-                                        <div class="message">feat: add README for styling</div>
+                                        <div class="sha">#b35c5ee</div>
+                                        <div class="message">fix: cleanup timeout</div>
                                     </div>
                                 </div>
                             </section>
@@ -131,8 +49,28 @@ This reverts commit 8b952aa1a6ecbec0a841fb091232623759fa1dda.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#68d33b6</div>
-                                        <div class="message">refactor: section separation</div>
+                                        <div class="sha">#cc7256d</div>
+                                        <div class="message">wip: remove search params after scrolling</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">angelscloud/angelscloud-landing</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bab84cf</div>
+                                        <div class="message">feat: scroll into section</div>
                                     </div>
                                 </div>
                             </section>
