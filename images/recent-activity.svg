@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/SBV-7219-springbuilder-x-popular-matches-section-in-sportsbook</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9ddecb5</div>
-                                        <div class="message">[SBV-7219] fix: redirecting issues</div>
+                                        <div class="sha">#6057d85</div>
+                                        <div class="message">[SBV-7219] fix: redirect issues</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,7 +43,7 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#4465 [ SBV-7285 ] Top league selection issue on top league competition</span>
+                                        <span class="issue">#4321 [ SBV-7028 ] Deposit withdrawal thousands separator for all payments amount fields</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -65,8 +65,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/SBV-7219-springbuilder-x-popular-matches-section-in-sportsbook</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bafda3e</div>
-                                        <div class="message">[SBV-7219] fix: minor fixes related top matches</div>
+                                        <div class="sha">#39e6e13</div>
+                                        <div class="message">[SBV-7219] fix: store boosted and top matches game with difference redux keys</div>
                                     </div>
                                 </div>
                             </section>
