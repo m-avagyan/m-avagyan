@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="919" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,15 +22,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop_89</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8428001</div>
+                                        <div class="message">Merge branch 'develop_89' of https://github.com/ucraft-com/springbuilder-x into develop_89</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">m-avagyan/webpack-react-typescript-template</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-7558-regression-89-top-league-outright-today-betbuilder-sections-games-are-not-loading-when-selecting-other-competitions</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c5c13db</div>
-                                        <div class="message">[SBV-7558] fix(sportsbook): use competition id for trigger data fetching</div>
+                                        <div class="sha">#8d2cec0</div>
+                                        <div class="message">feat: add styled example</div>
                                     </div>
                                 </div>
                             </section>
@@ -42,191 +62,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 46 commits in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">m-avagyan/webpack-react-typescript-template</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-7558-regression-89-top-league-outright-today-betbuilder-sections-games-are-not-loading-when-selecting-other-competitions</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#de167d5</div>
-                                        <div class="message">[SBV-7535] Merge branch 'develop_89' of github.com:ucraft-com/springbuilder-x into tikmirumian/SBV-7535-regression-89-ui-issues-with-esport-game-single-view</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7cac9a9</div>
-                                        <div class="message">[SBV-7534] SBV-7534</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec46029</div>
-                                        <div class="message">[SBV-7532] [Casino] Redirect old casino single game links to new route structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25950cc</div>
-                                        <div class="message">Merge branch 'master' of github.com:ucraft-com/springbuilder-x</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff2e9da</div>
-                                        <div class="message">[SBV-7455] fix(tournaments): fix loading states</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eeaf2f2</div>
-                                        <div class="message">Merge branch 'master' of github.com:ucraft-com/springbuilder-x</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a495bda</div>
-                                        <div class="message">[SBV-7530] SBV-7530</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e22641</div>
-                                        <div class="message">[SBV-7455] Merge branch 'develop_89' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-7455-tournament-improvement-on-tournaments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#286d692</div>
-                                        <div class="message">[SBV-7530] SBV-7530</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eeeb85e</div>
-                                        <div class="message">[SBV-7530] SBV-7530</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f762188</div>
-                                        <div class="message">[SBV-7455] Merge branch 'develop_89' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-7455-tournament-improvement-on-tournaments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b593ce</div>
-                                        <div class="message">[SBV-7462] Merge branch 'develop_89' of github.com:ucraft-com/springbuilder-x into tikmirumian/SBV-7462-replace-lazy-component-by-react-suspense</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4739f42</div>
-                                        <div class="message">[SBV-7455] Merge branch 'develop_89' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-7455-tournament-improvement-on-tournaments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#debf923</div>
-                                        <div class="message">[SBV-7462] align:develop_89</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15308ed</div>
-                                        <div class="message">[SBV-7455] Merge branch 'develop_89' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-7455-tournament-improvement-on-tournaments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#441cf47</div>
-                                        <div class="message">[SBV-7455] Merge branch 'develop_89' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-7455-tournament-improvement-on-tournaments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05964b4</div>
-                                        <div class="message">[SBV-7455] fix(tournaments): empty view showing issue
-
-do not show empty view during tournaments data loading</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#396f555</div>
-                                        <div class="message">[SBV-7455] feat(tournaments): games data showing logic
-
-show casino tournament card only when the current tournament has a games</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a5101f</div>
-                                        <div class="message">[SBV-7455] wip: move mocked data to the top level of calling to tournament data</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8feaf4</div>
-                                        <div class="message">[SBV-7455] wip: add new types for tournament games</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 54 commits in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-7455-tournament-improvement-on-tournaments</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a1d834a</div>
-                                        <div class="message">[SBV-7436] [Springbuilder X] Pop-Up for Reality Check</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#703b65e</div>
-                                        <div class="message">[SBV-7436] [Springbuilder X] Pop-Up for Reality Check</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd2772e</div>
-                                        <div class="message">[SBV-7424] fix: [Prematch]Duplicate command when changing sport types</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2a9212</div>
-                                        <div class="message">Merge branch 'develop_89' of github.com:ucraft-com/springbuilder-x into develop_89</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7911b62</div>
-                                        <div class="message">[SBV-7418] Merge branch 'develop_89' of github.com:ucraft-com/springbuilder-x into SBV-7418-translation-key-top-winners-separate-translation-keys</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6abec6a</div>
-                                        <div class="message">[SBV-7436] [Springbuilder X] Pop-Up for Reality Check</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae7efc8</div>
-                                        <div class="message">[SBV-7436] [Springbuilder X] Pop-Up for Reality Check</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5295778</div>
-                                        <div class="message">[SBV-5347] gabriel/SBV-5347-sportsbook-sports-tournament-the-top-league-and-today-events-games-are-not-loading-when-we-filter-the-tournament-by-sport</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#547b700</div>
-                                        <div class="message">[SBV-6490] changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#050c414</div>
-                                        <div class="message">[SBV-7436] Merge branch 'develop_89' of github.com:ucraft-com/springbuilder-x into SBV-7436-springbuilder-x-pop-up-for-reality-check</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78ba359</div>
-                                        <div class="message">[SBV-7436] ALIGN: translations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d686862</div>
-                                        <div class="message">[SBV-7436] [Springbuilder X] Pop-Up for Reality Check</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5065436</div>
-                                        <div class="message">[SBV-6490] Merge branch 'develop_89' of github.com:ucraft-com/springbuilder-x into Harut/SBV-6490-mobile-in-account-dropdown-the-count-of-bonuses-is-disappearing-after-connecting-new-web-socket</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3327405</div>
-                                        <div class="message">[SBV-6490] init</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#170ebb3</div>
-                                        <div class="message">[SBV-5347] gabriel/SBV-5347-sportsbook-sports-tournament-the-top-league-and-today-events-games-are-not-loading-when-we-filter-the-tournament-by-sport</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a88ba5b</div>
-                                        <div class="message">[SBV-5347] Merge branch 'develop_89' of github.com:ucraft-com/springbuilder-x into gabriel/SBV-5347-sportsbook-sports-tournament-the-top-league-and-today-events-games-are-not-loading-when-we-filter-the-tournament-by-sport</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf66d77</div>
-                                        <div class="message">[SBV-7418] ALIGN: translations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ca6d69</div>
-                                        <div class="message">[SBV-7418] [Translation key][Top winners] Separate translation keys</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6abc44</div>
-                                        <div class="message">[SBV-5347] gabriel/SBV-5347-sportsbook-sports-tournament-the-top-league-and-today-events-games-are-not-loading-when-we-filter-the-tournament-by-sport</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04f5c30</div>
-                                        <div class="message">[SBV-5347] gabriel/SBV-5347-sportsbook-sports-tournament-the-top-league-and-today-events-games-are-not-loading-when-we-filter-the-tournament-by-sport</div>
+                                        <div class="sha">#3ce13b3</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/m-avagyan/webpack-react-typescript-template</div>
                                     </div>
                                 </div>
                             </section>
