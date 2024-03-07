@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">angelscloud/angelscloud-landing</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">Gor/SBV-5548-separate-sportsbook-widgets</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b1b49b5</div>
-                                        <div class="message">style(button): make buttons styles for different variants and sizes</div>
+                                        <div class="sha">#c7ceee5</div>
+                                        <div class="message">[SBV-5548] fix(sportbook): merge confklicts</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">angelscloud/angelscloud-landing</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">Gor/SBV-5548-separate-sportsbook-widgets</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fba378c</div>
-                                        <div class="message">style: add selction colors</div>
+                                        <div class="sha">#41e759d</div>
+                                        <div class="message">[SBV-5548] fix(sportsbook): merge conflicts</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">angelscloud/angelscloud-landing</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">Gor/SBV-5548-separate-sportsbook-widgets</span></div>
                                     <div class="commit">
-                                        <div class="sha">#551f1b6</div>
-                                        <div class="message">style: add selction colors</div>
+                                        <div class="sha">#42e8cbd</div>
+                                        <div class="message">[SBV-5548] fix(sportsbook): conflicts</div>
                                     </div>
                                 </div>
                             </section>
