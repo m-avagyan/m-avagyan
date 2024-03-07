@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">Gor/SBV-5548-separate-sportsbook-widgets</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c7ceee5</div>
-                                        <div class="message">[SBV-5548] fix(sportbook): merge confklicts</div>
+                                        <div class="sha">#7250e2e</div>
+                                        <div class="message">[SBV-5548] fix(sportsbook): min height issues</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">Gor/SBV-5548-separate-sportsbook-widgets</span></div>
                                     <div class="commit">
-                                        <div class="sha">#41e759d</div>
-                                        <div class="message">[SBV-5548] fix(sportsbook): merge conflicts</div>
+                                        <div class="sha">#88d9e90</div>
+                                        <div class="message">[SBV-5548] fix(sportsbook): min height issues</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">Gor/SBV-5548-separate-sportsbook-widgets</span></div>
                                     <div class="commit">
-                                        <div class="sha">#42e8cbd</div>
-                                        <div class="message">[SBV-5548] fix(sportsbook): conflicts</div>
+                                        <div class="sha">#4ca7557</div>
+                                        <div class="message">[SBV-5548] fix(sportbook): min height issues</div>
                                     </div>
                                 </div>
                             </section>
