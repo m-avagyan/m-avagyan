@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="273" class="">
     <defs>
         <style/>
     </defs>
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">angelscloud/angelscloud-landing</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">martik/SBV-7632-springbuilder-x-research-login-registration-via-google</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b951fd4</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#2a9f4b5</div>
+                                        <div class="message">[SBV-7632] feat(google-sign-in): types for window gapi</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">angelscloud/angelscloud-landing</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">martik/SBV-7632-springbuilder-x-research-login-registration-via-google</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8249883</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#45f76e7</div>
+                                        <div class="message">[SBV-7632] feat(google-sign-in): add types of window google api</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">angelscloud/angelscloud-landing-dashboard</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/SBV-7645-ci-cd-change-aligning-locales-script-run-to-not-use-commitizen</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9d6cf67</div>
-                                        <div class="message">fix: roles for admin</div>
+                                        <div class="sha">#a2f6562</div>
+                                        <div class="message">[SBV-7645] feat(github): do not run commit messages with commitizen for translations aligning script</div>
                                     </div>
                                 </div>
                             </section>
