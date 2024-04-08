@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="516" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -29,8 +29,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a2c0bf4</div>
-                                        <div class="message">unit(file-type): add file-type helper tests</div>
+                                        <div class="sha">#ebd7524</div>
+                                        <div class="message">fix</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">angelscloud/angelscloud-landing-dashboard</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3519baf</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,100 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b1725e7</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/angelscloud/angelscloud-landing</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 18 commits in
-                                        <span class="repo">angelscloud/angelscloud-landing</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b748f09</div>
-                                        <div class="message">Dev (#72)
-
-Completed:
-https://trello.com/c/jUTULL34
-Performance fixes (code splitting, components memoization)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4427165</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/angelscloud/angelscloud-landing into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0fa874</div>
-                                        <div class="message">Performance Fixes (#74)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b87dbf6</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/angelscloud/angelscloud-landing into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9c3b34</div>
-                                        <div class="message">Fix tablet styles (#73)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a8bf3f</div>
-                                        <div class="message">fix: minor fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3202878</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/angelscloud/angelscloud-landing into AC-25/fix/tablet-fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7523829</div>
-                                        <div class="message">style: some minor changes for tablet view</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b3d16d</div>
-                                        <div class="message">feat: memoize the UI components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#508a96c</div>
-                                        <div class="message">wip: code splitting in project</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#172efba</div>
-                                        <div class="message">wip: code splitting in career pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1244c0</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4577701</div>
-                                        <div class="message">style(tablet): change tablet styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cecdaa4</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/angelscloud/angelscloud-landing into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3480d71</div>
-                                        <div class="message">Merge branch 'master' into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df52bf6</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55ed8ad</div>
-                                        <div class="message">fix: lazy loading for portable text element</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#462039d</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#4250b6d</div>
+                                        <div class="message">fix: replace weedbates to growcycle logo</div>
                                     </div>
                                 </div>
                             </section>
