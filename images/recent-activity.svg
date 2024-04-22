@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="549" class="">
     <defs>
         <style/>
     </defs>
@@ -23,14 +23,110 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jaminglo/jaminglo-preview</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/SBV-7599-todo-cleanup-account</span></div>
                                     <div class="commit">
-                                        <div class="sha">#418b72c</div>
-                                        <div class="message">fix mobile version sizes</div>
+                                        <div class="sha">#95b2f79</div>
+                                        <div class="message">[SBV-7599] fix(eslint): eslint import sort issues</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 238 commits in
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">martik/SBV-7599-todo-cleanup-account</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6da6e61</div>
+                                        <div class="message">[SBV-6584] fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e72b2b</div>
+                                        <div class="message">[SBV-6584] fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16a5209</div>
+                                        <div class="message">[SBV-6584] fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36e1d69</div>
+                                        <div class="message">[SBV-6584] fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff960ea</div>
+                                        <div class="message">[SBV-6584] fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3358edc</div>
+                                        <div class="message">Merge branch 'master' of github.com:ucraft-com/springbuilder-x</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4030c16</div>
+                                        <div class="message">[SBV-6584] master</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba983ab</div>
+                                        <div class="message">Merge branch 'master' of github.com:ucraft-com/springbuilder-x</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c800ba</div>
+                                        <div class="message">[SBV-6584] fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41cb90c</div>
+                                        <div class="message">[SBV-6584] fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82fb8f5</div>
+                                        <div class="message">[SBV-6584] Merge branch 'master' of github.com:ucraft-com/springbuilder-x into jora/SBV-6584-springbuilder-x-pop-up-for-sign-in-sign-up-buttons-in-design-mode</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e70513</div>
+                                        <div class="message">[SBV-6584] fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#377a43a</div>
+                                        <div class="message">[SBV-6584] fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34bbccd</div>
+                                        <div class="message">[SBV-6584] fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1370d0</div>
+                                        <div class="message">[SBV-6584] fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e4e500</div>
+                                        <div class="message">[SBV-6584] fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c2b444</div>
+                                        <div class="message">[SBV-6584] Merge branch 'jora/SBV-6584-springbuilder-x-pop-up-for-sign-in-sign-up-buttons-in-design-mode' of github.com:ucraft-com/springbuilder-x into jora/SBV-6584-springbuilder-x-pop-up-for-sign-in-sign-up-buttons-in-design-mode</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef524bf</div>
+                                        <div class="message">[SBV-6584] merge with master</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d233ab7</div>
+                                        <div class="message">[SBV-6584] close custom popup after login and hide dark/loght switcher when account element is in popup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c93fcf5</div>
+                                        <div class="message">[SBV-6584] Merge branch 'master' of github.com:ucraft-com/springbuilder-x into jora/SBV-6584-springbuilder-x-pop-up-for-sign-in-sign-up-buttons-in-design-mode</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,34 +139,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jaminglo/aws-logs</span>
+                                        <span class="repo">opsworker-io/opsworker-app</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7b68471</div>
-                                        <div class="message">Create README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jaminglo/aws-logs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c54cff8</div>
-                                        <div class="message">Initial commit</div>
+                                        <div class="sha">#c78ffc3</div>
+                                        <div class="message">fix: CI/CD node v</div>
                                     </div>
                                 </div>
                             </section>
