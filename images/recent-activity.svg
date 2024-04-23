@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="642" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="629" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,124 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">jaminglo/jaminglo-preview</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#673bc44</div>
+                                        <div class="message">add AWS CF distribution invalidation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 125 commits in
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">martik/SBV-7599-todo-cleanup-account</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#af5d0a6</div>
+                                        <div class="message">[SBV-7574] Merge branch 'martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22ab5f8</div>
+                                        <div class="message">Merge branch 'develop_91' into martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2945f71</div>
+                                        <div class="message">[SBV-7574] fix(sportsbook): revert fav team route change logic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09e9cfc</div>
+                                        <div class="message">[SBV-7574] fix(sportsbook): select football as sport in sports menu and reset tournaments on redirect</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6b652c</div>
+                                        <div class="message">[SBV-7574] fix(sportsbook-left-sidebar): filter sports with tournament at left sidebar and fix redirects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f590ca2</div>
+                                        <div class="message">[SBV-7574] fix(sportsbook): redirects from top matches</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a24077</div>
+                                        <div class="message">[SBV-7574] fix(sportsbook): redirects from top leagues</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d06b350</div>
+                                        <div class="message">[SBV-7574] fix(sportsbook): clean tournament if we don't have any selected tournament id</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#129dc49</div>
+                                        <div class="message">[SBV-7574] fix(sportsbook): reset tournaments from main sports menu</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#967f467</div>
+                                        <div class="message">[SBV-7574] revert(sportsbook): latest commit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88637d5</div>
+                                        <div class="message">Revert "[SBV-7574] fix(sportsbook): call to all gamelist if the selected sport is not a tournament sport"
+
+This reverts commit d68b1e1caec5d114b00fa743b79b3e3122750448.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87d956c</div>
+                                        <div class="message">[SBV-7574] Merge branch 'martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5a306c</div>
+                                        <div class="message">Merge branch 'develop_91' into martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c1f1ca</div>
+                                        <div class="message">[SBV-7574] fix(sportsbook): remove unused file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d68b1e1</div>
+                                        <div class="message">[SBV-7574] fix(sportsbook): call to all gamelist if the selected sport is not a tournament sport</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cde897</div>
+                                        <div class="message">[SBV-7574] Merge branch 'develop_91' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04c600c</div>
+                                        <div class="message">[SBV-7574] fix(sportbook): ignore tournament sports from not real sports game list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6eccffa</div>
+                                        <div class="message">Merge branch 'develop_91' of https://github.com/ucraft-com/springbuilder-x into develop_91</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8ff1cc</div>
+                                        <div class="message">Merge branch 'develop_91' of https://github.com/ucraft-com/springbuilder-x into develop_91</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d2000f</div>
+                                        <div class="message">Merge branch 'develop_91' of https://github.com/ucraft-com/springbuilder-x into develop_91</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -49,122 +167,6 @@
                                     <div class="commit">
                                         <div class="sha">#797d93f</div>
                                         <div class="message">[SBV-7830] feat(calendar): range Picker Select for Month and Year on Mobile</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 121 commits in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3f49c2a</div>
-                                        <div class="message">[SBV-7890] feat(community chat): add community chat integration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b576470</div>
-                                        <div class="message">[SBV-7847] fix(change): change viewall check</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd513ba</div>
-                                        <div class="message">[SBV-7905] fix: check extra_info in market</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79d7300</div>
-                                        <div class="message">[SBV-7895] style(add): add background collor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d04c16</div>
-                                        <div class="message">Update picker-periods.ts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a7cc9b</div>
-                                        <div class="message">[SBV-7791] SBV7791</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb6ab96</div>
-                                        <div class="message">[SBV-7858] gabriel/SBV-7858-ui-issue-sportsbook-ui-issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6c130e</div>
-                                        <div class="message">[SBV-7843] feat: added LoL scores colors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9db7238</div>
-                                        <div class="message">[SBV-7870] SBV-7870</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b07ee99</div>
-                                        <div class="message">[SBV-7857] chore(remove): remove in import</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2304b7a</div>
-                                        <div class="message">[SBV-7857] chore(add): add commas to deposit and bonuses numbers</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0cacc2</div>
-                                        <div class="message">[SBV-7864] ALIGN: translations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35bca73</div>
-                                        <div class="message">[SBV-7864] feat(paymentmethodslist): separating Keys for Progress Bar Texts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8fa4014</div>
-                                        <div class="message">[SBV-7866] fix: added rtl less file for UI Button and fixed UI issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b591fc3</div>
-                                        <div class="message">[SBV-7869] feat(oddformatview): font Issue On Prematch Page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a0c40c</div>
-                                        <div class="message">[SBV-7879] gabriel/SBV-7879-regression-92-esports-games-not-shows-as-selected-in-left-sidebar-2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d91448</div>
-                                        <div class="message">[SBV-7858] fix: fixed match card info timeline, prematch switcher and paddings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65941e6</div>
-                                        <div class="message">[SBV-7847] fix(fix): viewallenabled no show after changing categories</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3358edc</div>
-                                        <div class="message">Merge branch 'master' of github.com:ucraft-com/springbuilder-x</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba983ab</div>
-                                        <div class="message">Merge branch 'master' of github.com:ucraft-com/springbuilder-x</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-7599-todo-cleanup-account</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#95b2f79</div>
-                                        <div class="message">[SBV-7599] fix(eslint): eslint import sort issues</div>
                                     </div>
                                 </div>
                             </section>
