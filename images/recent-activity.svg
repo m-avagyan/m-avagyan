@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="532" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,30 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">jaminglo/jaminglo-preview</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#59bc948</div>
+                                        <div class="message">enable gtag script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f961fc4</div>
+                                        <div class="message">fix: copyright</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -47,104 +71,6 @@
                                     <div class="commit">
                                         <div class="sha">#673bc44</div>
                                         <div class="message">add AWS CF distribution invalidation</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 125 commits in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-7599-todo-cleanup-account</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#af5d0a6</div>
-                                        <div class="message">[SBV-7574] Merge branch 'martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22ab5f8</div>
-                                        <div class="message">Merge branch 'develop_91' into martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2945f71</div>
-                                        <div class="message">[SBV-7574] fix(sportsbook): revert fav team route change logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09e9cfc</div>
-                                        <div class="message">[SBV-7574] fix(sportsbook): select football as sport in sports menu and reset tournaments on redirect</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6b652c</div>
-                                        <div class="message">[SBV-7574] fix(sportsbook-left-sidebar): filter sports with tournament at left sidebar and fix redirects</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f590ca2</div>
-                                        <div class="message">[SBV-7574] fix(sportsbook): redirects from top matches</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a24077</div>
-                                        <div class="message">[SBV-7574] fix(sportsbook): redirects from top leagues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d06b350</div>
-                                        <div class="message">[SBV-7574] fix(sportsbook): clean tournament if we don't have any selected tournament id</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#129dc49</div>
-                                        <div class="message">[SBV-7574] fix(sportsbook): reset tournaments from main sports menu</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#967f467</div>
-                                        <div class="message">[SBV-7574] revert(sportsbook): latest commit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88637d5</div>
-                                        <div class="message">Revert "[SBV-7574] fix(sportsbook): call to all gamelist if the selected sport is not a tournament sport"
-
-This reverts commit d68b1e1caec5d114b00fa743b79b3e3122750448.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87d956c</div>
-                                        <div class="message">[SBV-7574] Merge branch 'martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5a306c</div>
-                                        <div class="message">Merge branch 'develop_91' into martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c1f1ca</div>
-                                        <div class="message">[SBV-7574] fix(sportsbook): remove unused file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d68b1e1</div>
-                                        <div class="message">[SBV-7574] fix(sportsbook): call to all gamelist if the selected sport is not a tournament sport</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cde897</div>
-                                        <div class="message">[SBV-7574] Merge branch 'develop_91' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-7574-sportsbook-tournament-issues-with-showing-games-in-prematch-page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04c600c</div>
-                                        <div class="message">[SBV-7574] fix(sportbook): ignore tournament sports from not real sports game list</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6eccffa</div>
-                                        <div class="message">Merge branch 'develop_91' of https://github.com/ucraft-com/springbuilder-x into develop_91</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8ff1cc</div>
-                                        <div class="message">Merge branch 'develop_91' of https://github.com/ucraft-com/springbuilder-x into develop_91</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d2000f</div>
-                                        <div class="message">Merge branch 'develop_91' of https://github.com/ucraft-com/springbuilder-x into develop_91</div>
                                     </div>
                                 </div>
                             </section>
