@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="316" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -22,19 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jaminglo/jaminglo-landing-dashboard</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">m-avagyan/website-performance-analyzer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#045b7e5</div>
-                                        <div class="message">feat: configure next framework</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#360970f</div>
-                                        <div class="message">feat: add README</div>
+                                        <div class="sha">#34de782</div>
+                                        <div class="message">fix readme</div>
                                     </div>
                                 </div>
                             </section>
@@ -47,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jaminglo/jaminglo-landing-dashboard</span>
+                                        <span class="repo">m-avagyan/website-performance-analyzer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e750479</div>
-                                        <div class="message">feat: configure package json and installl deps</div>
+                                        <div class="sha">#50fbedc</div>
+                                        <div class="message">read version from package.json</div>
                                     </div>
                                 </div>
                             </section>
@@ -66,31 +62,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">jaminglo/jaminglo-landing-dashboard</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">m-avagyan/website-performance-analyzer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f755d6d</div>
-                                        <div class="message">wip: add gitignore template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b80b27</div>
-                                        <div class="message">wip: setup node version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06a4693</div>
-                                        <div class="message">wip: configure commit messages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98941af</div>
-                                        <div class="message">wip: configure eslint and prettier</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b494c1</div>
-                                        <div class="message">wip: typescript configs</div>
+                                        <div class="sha">#4ae7896</div>
+                                        <div class="message">add types for runner func</div>
                                     </div>
                                 </div>
                             </section>
