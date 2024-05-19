@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#773e0e1</div>
-                                        <div class="message">feat: metadata configurations</div>
+                                        <div class="sha">#d4d6fc3</div>
+                                        <div class="message">feat: handle site launch service</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jaminglo/jaminglo-landing</span>
+                                        <span class="repo">jaminglo/jaminglo-site-launch</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#af4c4e1</div>
-                                        <div class="message">feat: site under construction version</div>
+                                        <div class="sha">#cd4ce37</div>
+                                        <div class="message">feat: load jaminglo site in sitelaunch for temp</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jaminglo/jaminglo-landing</span>
+                                        <span class="repo">jaminglo/jaminglo-site-launch</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a4e23ff</div>
-                                        <div class="message">fix: jm design fixes</div>
+                                        <div class="sha">#147efb0</div>
+                                        <div class="message">feat: load jaminglo site in sitelaunch for temp</div>
                                     </div>
                                 </div>
                             </section>
