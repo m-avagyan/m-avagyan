@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jaminglo/jaminglo-site-templates</span>
+                                        <span class="repo">jaminglo/jaminglo-landing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fdce382</div>
-                                        <div class="message">feat: separate theming</div>
+                                        <div class="sha">#773e0e1</div>
+                                        <div class="message">feat: metadata configurations</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jaminglo/jaminglo-site-templates</span>
+                                        <span class="repo">jaminglo/jaminglo-landing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2898652</div>
-                                        <div class="message">feat: implementation of main script</div>
+                                        <div class="sha">#af4c4e1</div>
+                                        <div class="message">feat: site under construction version</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">jaminglo/jaminglo-site-templates</span>
+                                        <span class="repo">jaminglo/jaminglo-landing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#26da8ff</div>
-                                        <div class="message">feat: webpack configurations</div>
+                                        <div class="sha">#a4e23ff</div>
+                                        <div class="message">fix: jm design fixes</div>
                                     </div>
                                 </div>
                             </section>
