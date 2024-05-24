@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="246" class="">
     <defs>
         <style/>
     </defs>
@@ -22,19 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jaminglo/jaminglo-site-templates</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/SBV-8021-springbuilder-x-currency-rate-for-payment-amount-d-w</span></div>
                                     <div class="commit">
-                                        <div class="sha">#305dc10</div>
-                                        <div class="message">fix: handling root element</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f60262</div>
-                                        <div class="message">chore(app-config): implementation of import theme and fetch configs logic and app rendering</div>
+                                        <div class="sha">#0101ff6</div>
+                                        <div class="message">[SBV-8021] fix(prettier): formatting issues</div>
                                     </div>
                                 </div>
                             </section>
@@ -46,19 +42,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jaminglo/jaminglo-site-templates</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jaminglo/jaminglo-landing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#017659b</div>
-                                        <div class="message">feat: add window and files declarations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61796d5</div>
-                                        <div class="message">feat: add node variables</div>
+                                        <div class="sha">#8fa1647</div>
+                                        <div class="message">fix: ga4 event names</div>
                                     </div>
                                 </div>
                             </section>
@@ -70,19 +62,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">jaminglo/jaminglo-site-templates</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">jaminglo/jaminglo-landing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d5ffb18</div>
-                                        <div class="message">fix: configure aliases</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6334354</div>
-                                        <div class="message">wip: config templates</div>
+                                        <div class="sha">#dbd15c5</div>
+                                        <div class="message">fix: ssr events</div>
                                     </div>
                                 </div>
                             </section>
