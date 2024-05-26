@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master-tmp</span></div>
                                     <div class="commit">
-                                        <div class="sha">#105d7ea</div>
-                                        <div class="message">feat: connect testimonials back-end</div>
+                                        <div class="sha">#8148643</div>
+                                        <div class="message">fix: add inquiries API</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,7 +49,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master-tmp</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d021081</div>
+                                        <div class="sha">#058d060</div>
                                         <div class="message">fix</div>
                                     </div>
                                 </div>
@@ -63,13 +63,13 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">opsworker-ai/opsworker-app</span>
+                                        <span class="repo">opsworker-ai/opsworker-landing-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master-tmp</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#41f7818</div>
+                                        <div class="sha">#97510bc</div>
                                         <div class="message">fix</div>
                                     </div>
                                 </div>
