@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="756" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="259" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.center{justify-content:center}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,153 +22,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 11 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">martik/SBV-8022-springbuilder-x-bfth-arena-balance-visibility-in-fiat</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c2d1623</div>
-                                        <div class="message">[SBV-8022] Merge branch 'martik/SBV-8021-springbuilder-x-currency-rate-for-payment-amount-d-w' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-8022-springbuilder-x-bfth-arena-balance-visibility-in-fiat</div>
+                                        <div class="sha">#bcba7cd</div>
+                                        <div class="message">[SBV-8022] fix: replace currency to currencyId</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d3600cb</div>
-                                        <div class="message">[SBV-8021] Merge branch 'martik/SBV-8021-springbuilder-x-currency-rate-for-payment-amount-d-w' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-8021-springbuilder-x-currency-rate-for-payment-amount-d-w</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3480dcc</div>
-                                        <div class="message">[SBV-8021] fix: resolve conflicts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d7806c</div>
-                                        <div class="message">Merge pull request #5027 from ucraft-com/change-wallet-connect-integration
-
-Change wallet connect integration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4dd7308</div>
-                                        <div class="message">feat: resolve conflicts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10bf865</div>
-                                        <div class="message">feat: resolve conflicts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7cbc729</div>
-                                        <div class="message">feat: rename directory</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#412abeb</div>
-                                        <div class="message">feat: change zindex</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65574fe</div>
-                                        <div class="message">feat: fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47f8241</div>
-                                        <div class="message">feat: merge with master</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8d9937</div>
-                                        <div class="message">feat: change-wallet-connect-integration</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 54 commits in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-8021-springbuilder-x-currency-rate-for-payment-amount-d-w</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ffd91e8</div>
-                                        <div class="message">[SBV-8070] Merge branch 'develop_95' of github.com:ucraft-com/springbuilder-x into Harut/SBV-8070-desktop-ui-issue-on-freebet-amount-field</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#054c2c4</div>
-                                        <div class="message">[SBV-8000] style(change): change skelton name</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb7e941</div>
-                                        <div class="message">[SBV-8000] fix(fix): aling items center</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#397ccef</div>
-                                        <div class="message">[SBV-8000] fix(skeleton): fix skeleton</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ce3cd5</div>
-                                        <div class="message">Merge branch 'develop_95' of github.com:ucraft-com/springbuilder-x into develop_95</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65574fe</div>
-                                        <div class="message">feat: fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47f8241</div>
-                                        <div class="message">feat: merge with master</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8d9937</div>
-                                        <div class="message">feat: change-wallet-connect-integration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbc0576</div>
-                                        <div class="message">[SBV-8071] qa changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93b9abc</div>
-                                        <div class="message">[SBV-8000] chore(change): change skeleton in sportSelect</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e989d22</div>
-                                        <div class="message">[SBV-8000] chore(change): change skeleton in sportSelect</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2604986</div>
-                                        <div class="message">[SBV-8071] Harut/SBV-8071-calendar-ui-issues-on-calendar-page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a9f694</div>
-                                        <div class="message">[SBV-8000] chore(improvement): improvement for ESport group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06540b8</div>
-                                        <div class="message">[SBV-8069] no need important</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#471f5dc</div>
-                                        <div class="message">[SBV-8069] Harut/SBV-8069-events-element-rtl-card-view-ui-issue-in-match-card</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#048c77d</div>
-                                        <div class="message">[SBV-8002] fix: master</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8ac4f6</div>
-                                        <div class="message">[SBV-8002] fix: fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac669f6</div>
-                                        <div class="message">[SBV-8070] Harut/SBV-8070-desktop-ui-issue-on-freebet-amount-field</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8539dbc</div>
-                                        <div class="message">[SBV-8002]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4eec03</div>
-                                        <div class="message">[SBV-8026] SBV-8026</div>
+                                        <div class="sha">#764f493</div>
+                                        <div class="message">[SBV-8021] fix(currency-rate): replace currency to currency id</div>
                                     </div>
                                 </div>
                             </section>
@@ -185,11 +51,27 @@ Change wallet connect integration</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-8022-springbuilder-x-bfth-arena-balance-visibility-in-fiat</span></div>
+                                    <div>on branch <span class="code">martik/SBV-8021-springbuilder-x-currency-rate-for-payment-amount-d-w</span></div>
                                     <div class="commit">
-                                        <div class="sha">#36cb606</div>
-                                        <div class="message">[SBV-8022] fix</div>
+                                        <div class="sha">#764f493</div>
+                                        <div class="message">[SBV-8021] fix(currency-rate): replace currency to currency id</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#5052 [ SBV-8095 ] Betslip issue with error message</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by tikmirumian in <span class="repo">ucraft-com/springbuilder-x</span></div>
                                 </div>
                             </section>
                         </div>
