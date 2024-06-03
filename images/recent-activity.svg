@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="549" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="606" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">opsworker-ai/opsworker-app</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/SBV-8022-springbuilder-x-bfth-arena-balance-visibility-in-fiat</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7ca82c1</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#5d6b9ec</div>
+                                        <div class="message">[SBV-8022] fix(currency-rate): make rate showing handler depended LS</div>
                                     </div>
                                 </div>
                             </section>
@@ -42,15 +42,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">opsworker-ai/opsworker-app</span>
+                                        Pushed 64 commits in
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/SBV-8022-springbuilder-x-bfth-arena-balance-visibility-in-fiat</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e9d6ed9</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/opsworker-io/opsworker-app</div>
+                                        <div class="sha">#c8ccfb4</div>
+                                        <div class="message">[SBV-8190] chore(fix): fix change</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73ce8d1</div>
+                                        <div class="message">[SBV-8190] chore(align): align with 8095 branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55a9705</div>
+                                        <div class="message">[SBV-8191] gabriel/SBV-8191-match-tracker-issue-with-showing-skeleton</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83de388</div>
+                                        <div class="message">[SBV-8190] fix(betslip): after click to Bonus or Freebet Error messages dont clickable</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af0c37d</div>
+                                        <div class="message">fix: auto withdraw fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62f538a</div>
+                                        <div class="message">[SBV-8171] SBV-8171</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a0fc98</div>
+                                        <div class="message">Merge branch 'master' of github.com:ucraft-com/springbuilder-x</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33f3749</div>
+                                        <div class="message">[SBV-8095] fix(error massage): check error massage when in tab realmode</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fde7436</div>
+                                        <div class="message">[SBV-8181] chore(fix): when there is error for the typed amount, the button disabled</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de51c6f</div>
+                                        <div class="message">[SBV-8180] gabriel/SBV-8180-medinabet-issue-with-account-number</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47af191</div>
+                                        <div class="message">[SBV-8182] fixed profit boost selecting issue for advanced betslip</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8eb5962</div>
+                                        <div class="message">[SBV-8171] SBV-8171</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5ed2a9</div>
+                                        <div class="message">[SBV-8165] ALIGN: translations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45cfb7b</div>
+                                        <div class="message">[SBV-8165] feat(backend-error-code): issues with error messages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a31607</div>
+                                        <div class="message">[SBV-8181] chore(disable button): disable button when input is empty</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34f2b98</div>
+                                        <div class="message">[SBV-8171] SBV-8171</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22d5cea</div>
+                                        <div class="message">Merge branch 'master' of github.com:ucraft-com/springbuilder-x</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac86998</div>
+                                        <div class="message">[SBV-8171] SBV-8171</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#668876a</div>
+                                        <div class="message">[SBV-8095] chore(change): change translations for error massage in betslip</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95dc055</div>
+                                        <div class="message">Merge branch 'master' of github.com:ucraft-com/springbuilder-x</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,91 +138,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 49 commits in
-                                        <span class="repo">opsworker-ai/opsworker-app</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/SBV-8021-springbuilder-x-currency-rate-for-payment-amount-d-w</span></div>
                                     <div class="commit">
-                                        <div class="sha">#68a7b9b</div>
-                                        <div class="message">feat(notification-bar): add notification bar</div>
+                                        <div class="sha">#b5c34b9</div>
+                                        <div class="message">[SBV-8021] Merge branch 'master' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-8021-springbuilder-x-currency-rate-for-payment-amount-d-w</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8148643</div>
-                                        <div class="message">fix: add inquiries API</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#058d060</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c9f3d1</div>
-                                        <div class="message">fix: testimonials</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f66e2f1</div>
-                                        <div class="message">wip: add page title and desc seo translations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7cea022</div>
-                                        <div class="message">fix: add social media app urls</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59f56db</div>
-                                        <div class="message">fix: add pricing hero section button and faq section colapses hover effects</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#938976b</div>
-                                        <div class="message">fix(inquiry-form): fix rounded button hover effect</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8d99b9</div>
-                                        <div class="message">fix(assets): change asstes names</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b53308c</div>
-                                        <div class="message">fix(icons): change icon names</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8686ad0</div>
-                                        <div class="message">Merge branch 'master-tmp' into mobile-menu</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#105d7ea</div>
-                                        <div class="message">feat: connect testimonials back-end</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d021081</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41f7818</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37891f9</div>
-                                        <div class="message">feat: add skeleton for pages, blog and company related materials</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#000d8fa</div>
-                                        <div class="message">fix: selection color</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7bbdebd</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84e56eb</div>
-                                        <div class="message">fix: opsworker io to ai</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79e3c2a</div>
-                                        <div class="message">Merge branch 'master-tmp' into mobile-menu</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc2dbb3</div>
-                                        <div class="message">feat(mobile-menu): add mobile menu</div>
+                                        <div class="sha">#e39b0b7</div>
+                                        <div class="message">chore(community chat): remove subdomain for community chat social engine</div>
                                     </div>
                                 </div>
                             </section>
