@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/SBV-8271-currency-some-currency-exchange-issues</span></div>
                                     <div class="commit">
-                                        <div class="sha">#90f5552</div>
-                                        <div class="message">[SBV-8271] fix:  minor UI issues</div>
+                                        <div class="sha">#9435c25</div>
+                                        <div class="message">[SBV-8271] fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/SBV-8271-currency-some-currency-exchange-issues</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bfbc78e</div>
-                                        <div class="message">[SBV-8271] fix:  minor UI issues</div>
+                                        <div class="sha">#80bdfdd</div>
+                                        <div class="message">[SBV-8271] fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">opsworker-ai/opsworker-app</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-8271-currency-some-currency-exchange-issues</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1935c10</div>
-                                        <div class="message">[SBV-8271] fix: ui issues</div>
+                                        <div class="sha">#04ef828</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
