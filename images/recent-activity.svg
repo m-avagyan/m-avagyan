@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="566" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -27,14 +27,14 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ca412f4</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#40f6878</div>
+                                        <div class="message">fix: eslint</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#268e3a6</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/opsworker-io/opsworker-app into dev</div>
+                                        <div class="sha">#e6a4cf1</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/opsworker-io/opsworker-app</div>
                                     </div>
                                 </div>
                             </section>
@@ -46,25 +46,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 42 commits in
                                         <span class="repo">opsworker-ai/opsworker-app</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fbde915</div>
-                                        <div class="message">Merge pull request #16 from opsworker-ai/feature/product_and_contact_us_textfixes
-
-text fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5880306</div>
-                                        <div class="message">fix: merge conflict</div>
-                                    </div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
                                         <div class="sha">#ce3dedf</div>
                                         <div class="message">text fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be521a2</div>
+                                        <div class="message">feat: products page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4a7740</div>
+                                        <div class="message">fix: logo coloring</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eac35e3</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/opsworker-io/opsworker-app into dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43e3711</div>
+                                        <div class="message">Merge branches 'dev' and 'dev' of https://github.com/opsworker-io/opsworker-app into dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e6f5bf</div>
+                                        <div class="message">fix: some fixes for comments</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5f2614</div>
+                                        <div class="message">feat: add slack coworkers block hero section title decor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f95cc48</div>
+                                        <div class="message">feat(title-with-decor): add title with decor component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38694c9</div>
+                                        <div class="message">feat(product): add slack coworker page layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd7b9b9</div>
+                                        <div class="message">feat(products): add products page translations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2655f4</div>
+                                        <div class="message">feat(slack-coworker-section): add section layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1db6e10</div>
+                                        <div class="message">feat(ai-helper): make ai helper block with data props</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91b1cdc</div>
+                                        <div class="message">style(benefits-infrastructure): change styles for wrapper</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#260cabe</div>
+                                        <div class="message">feat(icons): add avatar icons and slack-logo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e06fdc</div>
+                                        <div class="message">style(button-secondary): fixing secondary-buttons background</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4edf3e4</div>
+                                        <div class="message">feat(message-card): add message card component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22af86b</div>
+                                        <div class="message">feat(carousel): add carousel component for slack-coworker hero</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#400e051</div>
+                                        <div class="message">fix(ai-helper-block): add label props</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92ec895</div>
+                                        <div class="message">fix: change icons aspect cards structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b6d827</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/opsworker-io/opsworker-app into dev</div>
                                     </div>
                                 </div>
                             </section>
@@ -77,12 +143,12 @@ text fixes</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#16 text fixes</span>
+                                        <span class="issue">#13 Dev</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by aramhakobyan in <span class="repo">opsworker-ai/opsworker-app</span></div>
-                                    <div>1 file changed <span class="code">++10 --7</span></div>
+                                    <div> in <span class="repo">opsworker-ai/opsworker-app</span></div>
+                                    <div>44 files changed <span class="code">++1339 --138</span></div>
                                 </div>
                             </section>
                         </div>
