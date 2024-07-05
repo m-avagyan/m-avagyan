@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="273" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-8414-show-user-balance-to-french-freebet-after-changing-tab-in-betslip</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#24e3c09</div>
-                                        <div class="message">[SBV-8414] fix</div>
+                                        <div class="sha">#ec7b5a5</div>
+                                        <div class="message">feat: add projects page</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-8414-show-user-balance-to-french-freebet-after-changing-tab-in-betslip</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1fbbe4c</div>
-                                        <div class="message">[SBV-8414] fix</div>
+                                        <div class="sha">#65b5a25</div>
+                                        <div class="message">feat: add upwork app url</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">m-avagyan/martik-avagyan-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-8414-show-user-balance-to-french-freebet-after-changing-tab-in-betslip</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ba05c76</div>
-                                        <div class="message">[SBV-8414] feat: change french freebet selector on betslip freebet select</div>
+                                        <div class="sha">#1b1d60d</div>
+                                        <div class="message">feat: add book a call button</div>
                                     </div>
                                 </div>
                             </section>
