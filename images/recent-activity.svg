@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/SBV-8504-regression-99-general-skeletons-skeletons-have-shift-layout</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8c79cf0</div>
+                                        <div class="sha">#226bab5</div>
                                         <div class="message">[SBV-8504] fix</div>
                                     </div>
                                 </div>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/SBV-8504-regression-99-general-skeletons-skeletons-have-shift-layout</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fcc5ef2</div>
-                                        <div class="message">[SBV-8504] fix: sportsbook game list header skeletons</div>
+                                        <div class="sha">#92331a8</div>
+                                        <div class="message">[SBV-8504] test: events element skeleton</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/SBV-8504-regression-99-general-skeletons-skeletons-have-shift-layout</span></div>
                                     <div class="commit">
-                                        <div class="sha">#97df892</div>
-                                        <div class="message">[SBV-8504] fix: events element layout shifts</div>
+                                        <div class="sha">#09e2146</div>
+                                        <div class="message">[SBV-8504] fix: casino games layout shift</div>
                                     </div>
                                 </div>
                             </section>
