@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="273" class="">
     <defs>
         <style/>
     </defs>
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/frontland-web-app</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/SBV-8504-regression-99-general-skeletons-skeletons-have-shift-layout</span></div>
                                     <div class="commit">
-                                        <div class="sha">#100edeb</div>
-                                        <div class="message">feat: add locale switcher</div>
+                                        <div class="sha">#a92530c</div>
+                                        <div class="message">[SBV-8504] fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/frontland-web-app</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/SBV-8504-regression-99-general-skeletons-skeletons-have-shift-layout</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fb74efc</div>
-                                        <div class="message">feat: add skeleton ui component</div>
+                                        <div class="sha">#8168b84</div>
+                                        <div class="message">[SBV-8504] test</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/frontland-web-app</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/SBV-8504-regression-99-general-skeletons-skeletons-have-shift-layout</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9194f84</div>
-                                        <div class="message">fix: add missing translations for en</div>
+                                        <div class="sha">#f35edd3</div>
+                                        <div class="message">[SBV-8504] test</div>
                                     </div>
                                 </div>
                             </section>
