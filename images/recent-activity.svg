@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0d0ebe2</div>
+                                        <div class="sha">#6ea1ebc</div>
                                         <div class="message">fix</div>
                                     </div>
                                 </div>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#076bf7c</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#267c280</div>
+                                        <div class="message">fix: animation loader</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1df5589</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#ac21cf6</div>
+                                        <div class="message">feat: add some animation files</div>
                                     </div>
                                 </div>
                             </section>
