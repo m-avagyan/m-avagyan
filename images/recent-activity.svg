@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b932c31</div>
-                                        <div class="message">feat: add hero section for the homepage</div>
+                                        <div class="sha">#83823d6</div>
+                                        <div class="message">fix: minor fixes relted testimonials section</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#70632b8</div>
-                                        <div class="message">feat: initial version of service order section</div>
+                                        <div class="sha">#eafc9c2</div>
+                                        <div class="message">feat: add testimonials section</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/frontland-web-app</span>
+                                        <span class="repo">frontland-dev/frontland-cms-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6bb391c</div>
-                                        <div class="message">feat: add orders API</div>
+                                        <div class="sha">#1286b96</div>
+                                        <div class="message">fix: add alt to customer image and fix some type issues</div>
                                     </div>
                                 </div>
                             </section>
