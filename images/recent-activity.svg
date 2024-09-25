@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5eaec11</div>
-                                        <div class="message">feat: install react-router-dom</div>
+                                        <div class="sha">#e1d5fdc</div>
+                                        <div class="message">fix: install cssnano</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4200f21</div>
-                                        <div class="message">feat: implement redux toolkit</div>
+                                        <div class="sha">#10fdd26</div>
+                                        <div class="message">feat: add forgot password and sign in pages</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#59a1b68</div>
-                                        <div class="message">fix: minor code style fixes</div>
+                                        <div class="sha">#b8ab6c4</div>
+                                        <div class="message">feat: add forgot password and sign in pages</div>
                                     </div>
                                 </div>
                             </section>
