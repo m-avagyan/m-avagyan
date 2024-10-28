@@ -29,28 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bcdfb79</div>
-                                        <div class="message">fix: fixing mobile hidration error</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">gamirez/impact-ustravel-org</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">martik/issue-2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b79ba8a</div>
-                                        <div class="message">feat: add hover effect for buttons</div>
+                                        <div class="sha">#46f000d</div>
+                                        <div class="message">feat(national-page): add national-page hero-section</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,12 +49,32 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d81e578</div>
-                                        <div class="message">fix(formatter): fixing prettier errors</div>
+                                        <div class="sha">#af877fa</div>
+                                        <div class="message">feat(home-page): integrate tailwind container for all sections and add hero-section button functionality</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#299d5b6</div>
-                                        <div class="message">fix(hero-section): make hero section correct for safari browser</div>
+                                        <div class="sha">#4a36b56</div>
+                                        <div class="message">feat(helpers): add scrollToSection helper</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">gamirez/impact-ustravel-org</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">martik/issue-2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bcdfb79</div>
+                                        <div class="message">fix: fixing mobile hidration error</div>
                                     </div>
                                 </div>
                             </section>
