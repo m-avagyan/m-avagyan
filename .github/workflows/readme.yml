@@ -8,6 +8,16 @@ jobs:
     runs-on: ubuntu-latest
     permissions: write-all
     steps:
+      - name: git configs
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          git config --global user.name "m-avagyan"
+          git config --global user.email "martikavagyan1@gmail.com"
+          git add images/*.svg
+          git commit -m "schedule(cron): download and update statistics"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
       - name: header
         uses: lowlighter/metrics@latest
         with:
