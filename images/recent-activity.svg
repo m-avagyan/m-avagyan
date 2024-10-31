@@ -27,10 +27,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/issue-2</span></div>
+                                    <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#65dc59f</div>
-                                        <div class="message">fix(fonts): fixing font families for typography component</div>
+                                        <div class="sha">#a12575b</div>
+                                        <div class="message">feat(nation-page): make statistics section responsive</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">guardhive/fraudshield_devicefingerprint</span>
+                                        <span class="repo">gamirez/impact-ustravel-org</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b71519</div>
-                                        <div class="message">add intiial version of the module</div>
+                                        <div class="sha">#5a263c6</div>
+                                        <div class="message">fix: fix hero section responsive layout</div>
                                     </div>
                                 </div>
                             </section>
@@ -64,9 +64,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">main</span>
+                                        <span class="code">martik/issue-3</span>
                                         in
-                                        <span class="repo">guardhive/fraudshield_devicefingerprint</span>
+                                        <span class="repo">gamirez/impact-ustravel-org</span>
                                     </div>
                                 </div>
                             </section>
