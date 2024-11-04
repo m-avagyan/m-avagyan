@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="299" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="249" class="">
     <defs>
         <style/>
     </defs>
@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d2670f7</div>
-                                        <div class="message">feat: add fifth page</div>
+                                        <div class="sha">#f34ae43</div>
+                                        <div class="message">feat: add styles global</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,12 +49,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7a2fa0c</div>
-                                        <div class="message">feat: reading sign screen add</div>
+                                        <div class="sha">#ef5ae88</div>
+                                        <div class="message">feat: add types for images</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a71eb66</div>
-                                        <div class="message">feat(reading-phase): reading phase section</div>
+                                        <div class="sha">#a06e668</div>
+                                        <div class="message">feat: optimize player</div>
                                     </div>
                                 </div>
                             </section>
@@ -66,27 +66,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">scottpipia/moon-reading</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#30b7cc4</div>
-                                        <div class="message">feat: add functionality after sign in</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3afade</div>
-                                        <div class="message">feat: devide pages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29e4f5d</div>
-                                        <div class="message">feat: add player component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28f1fe2</div>
-                                        <div class="message">feat: add vlitejs into project and optimize packages</div>
+                                        <div class="sha">#3a67262</div>
+                                        <div class="message">feat: add styles for form</div>
                                     </div>
                                 </div>
                             </section>
