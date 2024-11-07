@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#76b0e8c</div>
-                                        <div class="message">fix: sync mediaqueries and adaptations with js</div>
+                                        <div class="sha">#9d47af9</div>
+                                        <div class="message">feat: make routing with lowercase values</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7fd2301</div>
-                                        <div class="message">feat: show every state in page</div>
+                                        <div class="sha">#54eec98</div>
+                                        <div class="message">fix: fixing CLS of hero section</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c9330e7</div>
-                                        <div class="message">feat: fixing ui for nation page hero section and adapt hero section for state page</div>
+                                        <div class="sha">#a5c0d0a</div>
+                                        <div class="message">feat: add dynamic data for state page hero section</div>
                                     </div>
                                 </div>
                             </section>
