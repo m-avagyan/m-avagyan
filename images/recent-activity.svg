@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="289" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -22,19 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">gamirez/impact-ustravel-org</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-9286-springbuilder-x-germany-regulation-inactivity-logout</span></div>
+                                    <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e44f94c</div>
-                                        <div class="message">[SBV-9286] fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8514902</div>
-                                        <div class="message">[SBV-9286] Merge branch 'martik/SBV-9286-springbuilder-x-germany-regulation-inactivity-logout' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-9286-springbuilder-x-germany-regulation-inactivity-logout</div>
+                                        <div class="sha">#12bdefc</div>
+                                        <div class="message">feat(district): add logic for show all</div>
                                     </div>
                                 </div>
                             </section>
@@ -47,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">gamirez/impact-ustravel-org</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-9407-springbuilder-x-otp-confirmation-for-resetting-password-via-sms</span></div>
+                                    <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#946b356</div>
-                                        <div class="message">[SBV-9407] wip</div>
+                                        <div class="sha">#72733e8</div>
+                                        <div class="message">fix: fixing layout for hero section top part in mobile devices</div>
                                     </div>
                                 </div>
                             </section>
@@ -66,15 +62,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 270 commits in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">gamirez/impact-ustravel-org</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-9286-springbuilder-x-germany-regulation-inactivity-logout</span></div>
+                                    <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ecb5a7b</div>
-                                        <div class="message">Merge branch 'master' of github.com:ucraft-com/springbuilder-x</div>
+                                        <div class="sha">#7c2b4dc</div>
+                                        <div class="message">fix: fixing table size</div>
                                     </div>
                                 </div>
                             </section>
