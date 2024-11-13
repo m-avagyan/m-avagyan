@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="266" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="316" class="">
     <defs>
         <style/>
     </defs>
@@ -22,15 +22,27 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 4 commits in
                                         <span class="repo">gamirez/sponsorship.ustravel.org</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#39c7c2d</div>
-                                        <div class="message">feat: add types for assets</div>
+                                        <div class="sha">#866ffbf</div>
+                                        <div class="message">feat: add useClickOutside hook</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b67a5d0</div>
+                                        <div class="message">feat: add useMediaQuery hook</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1912bf3</div>
+                                        <div class="message">feat: add window-defined helper</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5deedc</div>
+                                        <div class="message">feat: add global styles</div>
                                     </div>
                                 </div>
                             </section>
@@ -42,23 +54,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">gamirez/sponsorship.ustravel.org</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#45d53a2</div>
-                                        <div class="message">chore: add packagesfor formatter and svgr</div>
+                                        <div class="sha">#e66b9d5</div>
+                                        <div class="message">feat: add fonts to layout</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0ee0b2b</div>
-                                        <div class="message">feat: add prettier configs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e10f79e</div>
-                                        <div class="message">feat: add eslint config file</div>
+                                        <div class="sha">#9936911</div>
+                                        <div class="message">feat(classcraft): add classcraft helper function</div>
                                     </div>
                                 </div>
                             </section>
@@ -70,15 +78,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">gamirez/sponsorship.ustravel.org</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d04f83e</div>
-                                        <div class="message">feat: add tailwind config</div>
+                                        <div class="sha">#b89d782</div>
+                                        <div class="message">fix: format pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b780509</div>
+                                        <div class="message">feat(assets): add gothamssm font family</div>
                                     </div>
                                 </div>
                             </section>
