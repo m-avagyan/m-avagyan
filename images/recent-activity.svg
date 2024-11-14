@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#abaa390</div>
-                                        <div class="message">fix: fixing for validation</div>
+                                        <div class="sha">#018a7fa</div>
+                                        <div class="message">fix: fixing headers shadow</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ccd765f</div>
-                                        <div class="message">wip: add footer component</div>
+                                        <div class="sha">#c5dfa8b</div>
+                                        <div class="message">fix: some minor fixes into footer</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cabee68</div>
-                                        <div class="message">feat: add form component for footer</div>
+                                        <div class="sha">#1db07df</div>
+                                        <div class="message">fix: fixing dropdown shown when it opened</div>
                                     </div>
                                 </div>
                             </section>
