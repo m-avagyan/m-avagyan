@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3f33a03</div>
-                                        <div class="message">feat: add terms page</div>
+                                        <div class="sha">#1f912a1</div>
+                                        <div class="message">feat: finalize terms page</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0390942</div>
-                                        <div class="message">fix: isolate styles</div>
+                                        <div class="sha">#9b5c870</div>
+                                        <div class="message">fix: fixing button text color all cases</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#74a84d3</div>
-                                        <div class="message">feat: add primary font family</div>
+                                        <div class="sha">#7534494</div>
+                                        <div class="message">feat: divide privacy-info section from privacy page</div>
                                     </div>
                                 </div>
                             </section>
