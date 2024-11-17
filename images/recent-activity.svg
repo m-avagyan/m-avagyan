@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#040c129</div>
-                                        <div class="message">fix: destination section styles</div>
+                                        <div class="sha">#773ba1e</div>
+                                        <div class="message">fix: remove unused imports</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#daa13c0</div>
-                                        <div class="message">feat: make destination section responsive</div>
+                                        <div class="sha">#8e1ffb2</div>
+                                        <div class="message">fix: fixing menu trigger and divide that component</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#da40152</div>
-                                        <div class="message">feat: make hero section responsive</div>
+                                        <div class="sha">#fe0a616</div>
+                                        <div class="message">feat: make travel champion section responsive</div>
                                     </div>
                                 </div>
                             </section>
