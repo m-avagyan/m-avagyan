@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c11c522</div>
-                                        <div class="message">fix: make travel-champion and opportuneties sections divider responsive</div>
+                                        <div class="sha">#1d3968b</div>
+                                        <div class="message">wip: add packages details section</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#53d915d</div>
-                                        <div class="message">feat: make opportunities section responsive</div>
+                                        <div class="sha">#94299fb</div>
+                                        <div class="message">fix: fixing naming of hero folder</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4545878</div>
-                                        <div class="message">fix: when click overlay of menu close menu with animation</div>
+                                        <div class="sha">#b7592aa</div>
+                                        <div class="message">feat: add events page hero section</div>
                                     </div>
                                 </div>
                             </section>
