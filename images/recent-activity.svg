@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4a051cb</div>
-                                        <div class="message">feat: add test video</div>
+                                        <div class="sha">#646bcdb</div>
+                                        <div class="message">feat: make gallery images dynamic</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d610c5f</div>
-                                        <div class="message">feat: add sliders indicator hover</div>
+                                        <div class="sha">#d1c27b6</div>
+                                        <div class="message">feat: add article section for events page</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e5a38ab</div>
-                                        <div class="message">fix: show hover styles only when can</div>
+                                        <div class="sha">#f6a4d3c</div>
+                                        <div class="message">feat: add slider for evens article</div>
                                     </div>
                                 </div>
                             </section>
