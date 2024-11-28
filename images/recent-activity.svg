@@ -23,11 +23,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#5956 [ SBV-9545 ] Currency auto select issue in registration form</span>
+                                        <span class="issue">#5964 [ SBV-9550 ] Multiview casino multiview favorite should be hidden in logged out state</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by GorHarutyunyan in <span class="repo">ucraft-com/springbuilder-x</span></div>
+                                    <div>opened by tikmirumian in <span class="repo">ucraft-com/springbuilder-x</span></div>
                                 </div>
                             </section>
                         </div>
@@ -39,14 +39,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">gamirez/sponsorship.ustravel.org</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-9027-mobile-casino-issue-with-showing-providers</span></div>
+                                    <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ef71b7c</div>
-                                        <div class="message">[SBV-9027] wip: cleaning up the casino providers</div>
+                                        <div class="sha">#043f1e0</div>
+                                        <div class="message">fix: other stats section mobile spacing</div>
                                     </div>
                                 </div>
                             </section>
@@ -59,14 +59,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        <span class="repo">gamirez/sponsorship.ustravel.org</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-9027-mobile-casino-issue-with-showing-providers</span></div>
+                                    <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0766912</div>
-                                        <div class="message">[SBV-9027] wip: cleaning up the casino providers</div>
+                                        <div class="sha">#f17b7b8</div>
+                                        <div class="message">fix: increase distance between sections</div>
                                     </div>
                                 </div>
                             </section>
