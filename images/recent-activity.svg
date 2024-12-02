@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7f36fe4</div>
-                                        <div class="message">fix: don't play on mobile player and scroll to top every step</div>
+                                        <div class="sha">#e696f6e</div>
+                                        <div class="message">fix: don't autoplay video if users with mobile device</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">gamirez/sponsorship.ustravel.org</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/issue-3</span></div>
+                                    <div>on branch <span class="code">martik/SBV-9027-mobile-casino-issue-with-showing-providers</span></div>
                                     <div class="commit">
-                                        <div class="sha">#78fa193</div>
-                                        <div class="message">fix: fixing gallery styles on mobile</div>
+                                        <div class="sha">#9c86330</div>
+                                        <div class="message">[SBV-9027] fix: casino related unit tests</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">gamirez/sponsorship.ustravel.org</span>
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/issue-3</span></div>
+                                    <div>on branch <span class="code">martik/SBV-9027-mobile-casino-issue-with-showing-providers</span></div>
                                     <div class="commit">
-                                        <div class="sha">#15fca74</div>
-                                        <div class="message">feat: make gallery images clicable and show gallery modal</div>
+                                        <div class="sha">#88c43d8</div>
+                                        <div class="message">[SBV-9027] fix: providers section in my casino</div>
                                     </div>
                                 </div>
                             </section>
