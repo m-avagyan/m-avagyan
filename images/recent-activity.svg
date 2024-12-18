@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="549" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/SBV-9598-implement-story-widget</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b47d89</div>
-                                        <div class="message">[SBV-9598] feat: add skeletons for each layout</div>
+                                        <div class="sha">#2549523</div>
+                                        <div class="message">[SBV-9598] fix: rtl related issues</div>
                                     </div>
                                 </div>
                             </section>
@@ -42,15 +42,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">gamirez/sponsorship.ustravel.org</span>
+                                        Pushed 88 commits in
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/issue-3</span></div>
+                                    <div>on branch <span class="code">martik/SBV-9598-implement-story-widget</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ffc7a9c</div>
-                                        <div class="message">fix: make hero section title two lines and decrease line height</div>
+                                        <div class="sha">#dc29d28</div>
+                                        <div class="message">[SBV-9601] Fix: Popup should close immediately when game not have fun mod, preventing modal from showing again</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6501ba</div>
+                                        <div class="message">Update src/__tests__/utils/account/account-params.test.ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18e321c</div>
+                                        <div class="message">[SBV-9578] change  change device modifyer one dash to two</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae3873a</div>
+                                        <div class="message">[SBV-9578] set casino game default config</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7283ec5</div>
+                                        <div class="message">[SBV-9578] fix some issues after my code self-check</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58eb523</div>
+                                        <div class="message">[SBV-9578] revert test changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b483b86</div>
+                                        <div class="message">[SBV-9578] add new setting "show casino game title" logic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f766fb9</div>
+                                        <div class="message">[SBV-9567]  Alphabetical Filters for the Pre-Match Page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acc93f0</div>
+                                        <div class="message">[SBV-9574] changed format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af4172e</div>
+                                        <div class="message">[SBV-9580] eslint fic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d7679e</div>
+                                        <div class="message">[SBV-9580] added banner for left sidenbar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a77b26</div>
+                                        <div class="message">Merge branch 'develop_110' into martik/SBV-8850-loyalty-points-issue-with-showing-error-message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02106d1</div>
+                                        <div class="message">[SBV-9574] override dayjs format method to have an order for day and month by setting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b3864e</div>
+                                        <div class="message">[SBV-8850] fix: empty input error message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ec624f</div>
+                                        <div class="message">[SBV-8903] ALIGN: translations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d23f92</div>
+                                        <div class="message">[SBV-8903] SBV-8903</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28fec3a</div>
+                                        <div class="message">[SBV-9312] SBV-9312</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a6be8b</div>
+                                        <div class="message">[SBV-9512] Fix:in favoriteTeamPopup modal style attribute made one piece</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#814a2e0</div>
+                                        <div class="message">[SBV-9512] Fix:layout shift issue in casinon game single view</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc7f61f</div>
+                                        <div class="message">[SBV-8897] SBV-8897</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +145,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/SBV-9598-implement-story-widget</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bf79d0f</div>
-                                        <div class="message">[SBV-9598] fix: replace stories with story</div>
+                                        <div class="sha">#9b47d89</div>
+                                        <div class="message">[SBV-9598] feat: add skeletons for each layout</div>
                                     </div>
                                 </div>
                             </section>
