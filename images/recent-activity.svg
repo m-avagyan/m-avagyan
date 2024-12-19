@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="549" class="">
     <defs>
         <style/>
     </defs>
@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#552a954</div>
-                                        <div class="message">feat: add button for otherStats section</div>
+                                        <div class="sha">#7f0ba28</div>
+                                        <div class="message">feat: remove image</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a5e8c72</div>
-                                        <div class="message">fix: remove second comma</div>
+                                        <div class="sha">#65e634b</div>
+                                        <div class="message">feat: add imag and change ipw page esto other stats section</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,15 +62,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">gamirez/sponsorship.ustravel.org</span>
+                                        Pushed 26 commits in
+                                        <span class="repo">ucraft-com/springbuilder-x</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/issue-3</span></div>
+                                    <div>on branch <span class="code">martik/SBV-9598-implement-story-widget</span></div>
                                     <div class="commit">
-                                        <div class="sha">#16bd499</div>
-                                        <div class="message">fix: change destinations membership section text</div>
+                                        <div class="sha">#4b1ad21</div>
+                                        <div class="message">[SBV-9573]  gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8adf89</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#021142c</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization: change data possition</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5fcfbd</div>
+                                        <div class="message">[SBV-9573] Merge branch 'develop_110' of github.com:ucraft-com/springbuilder-x into gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1e2680</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d848c8f</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d3d014</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cc78ce</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5cc96dd</div>
+                                        <div class="message">[SBV-9629] SBV-9529</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8916c0d</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d17b41</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#716039a</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b9d9fb</div>
+                                        <div class="message">[SBV-9614] SBV-9614</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38e5357</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6fb73e</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d68031b</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb65163</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e558bba</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06177d1</div>
+                                        <div class="message">[SBV-9573] Merge branch 'develop_110' of github.com:ucraft-com/springbuilder-x into gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8f5483</div>
+                                        <div class="message">[SBV-9573] gabriel/SBV-9573-spring-builder-x-dota-2-visualization</div>
                                     </div>
                                 </div>
                             </section>
