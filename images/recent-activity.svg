@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#92762a9</div>
-                                        <div class="message">fix: add price for programs page capitol section</div>
+                                        <div class="sha">#552a954</div>
+                                        <div class="message">feat: add button for otherStats section</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#353f833</div>
-                                        <div class="message">feat: add line break for programs page last section content</div>
+                                        <div class="sha">#a5e8c72</div>
+                                        <div class="message">fix: remove second comma</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/issue-3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#46b2eaa</div>
-                                        <div class="message">fix: change home page inbound section title</div>
+                                        <div class="sha">#16bd499</div>
+                                        <div class="message">fix: change destinations membership section text</div>
                                     </div>
                                 </div>
                             </section>
