@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/frontland-cms-dashboard</span>
+                                        <span class="repo">reiprintmail/frontend_mono_next</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/eslint-prettier-pre-commit-hook-setup</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9823a3d</div>
-                                        <div class="message">test</div>
+                                        <div class="sha">#d3d64ea</div>
+                                        <div class="message">feat: remove unused configs</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/frontland-cms-dashboard</span>
+                                        <span class="repo">reiprintmail/frontend_mono_next</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">martik/eslint-prettier-pre-commit-hook-setup</span></div>
                                     <div class="commit">
-                                        <div class="sha">#110a6dd</div>
-                                        <div class="message">fix: specify node v in amplify cli</div>
+                                        <div class="sha">#532c4ad</div>
+                                        <div class="message">feat: remove eslint comments</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/frontland-cms-dashboard</span>
+                                        <span class="repo">reiprintmail/frontend_mono_next</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">feature/form-generator</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eef2bdf</div>
-                                        <div class="message">chore: add amplify configs</div>
+                                        <div class="sha">#4b41aee</div>
+                                        <div class="message">test: add test form for page</div>
                                     </div>
                                 </div>
                             </section>
