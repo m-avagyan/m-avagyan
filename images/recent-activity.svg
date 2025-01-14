@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="249" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
     <defs>
         <style/>
     </defs>
@@ -22,19 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ucraft-com/springbuilder-x</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">reiprintmail/frontend_mono_next</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/SBV-9598-implement-story-widget</span></div>
+                                    <div>on branch <span class="code">bugfix/github-workflows</span></div>
                                     <div class="commit">
-                                        <div class="sha">#716a3b8</div>
-                                        <div class="message">[SBV-9598] fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2883ea6</div>
-                                        <div class="message">[SBV-9598] Merge branch 'martik/SBV-9598-implement-story-widget' of https://github.com/ucraft-com/springbuilder-x into martik/SBV-9598-implement-story-widget</div>
+                                        <div class="sha">#9104eb3</div>
+                                        <div class="message">test: merging the workflows</div>
                                     </div>
                                 </div>
                             </section>
@@ -51,10 +47,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">bugfix/vitest-playwright-setup-2</span></div>
+                                    <div>on branch <span class="code">bugfix/github-workflows</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4e708f6</div>
-                                        <div class="message">fix: playwright installation on project dir</div>
+                                        <div class="sha">#a48dcf5</div>
+                                        <div class="message">test: merging the workflows</div>
                                     </div>
                                 </div>
                             </section>
@@ -71,10 +67,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">bugfix/vitest-playwright-setup-2</span></div>
+                                    <div>on branch <span class="code">bugfix/github-workflows</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0366e88</div>
-                                        <div class="message">test: playwright installation</div>
+                                        <div class="sha">#5ef5291</div>
+                                        <div class="message">test: pull_request yml with deps in install</div>
                                     </div>
                                 </div>
                             </section>
