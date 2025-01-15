@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">bugfix/github-workflows</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0e4cf7f</div>
-                                        <div class="message">test: next bundle analysis workflow</div>
+                                        <div class="sha">#a167cc6</div>
+                                        <div class="message">fix: bundle analyzer workflow</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">bugfix/github-workflows</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d1691a2</div>
-                                        <div class="message">fix: playwright setup globally</div>
+                                        <div class="sha">#3a67734</div>
+                                        <div class="message">test: temporary install deps without lockfile frozen</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">bugfix/github-workflows</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ff6a341</div>
-                                        <div class="message">fix: remove test checks from check.yml</div>
+                                        <div class="sha">#2034f53</div>
+                                        <div class="message">fix: ignore caching in install workflows</div>
                                     </div>
                                 </div>
                             </section>
