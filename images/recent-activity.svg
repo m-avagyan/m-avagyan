@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#620a524</div>
-                                        <div class="message">fix: lato font styles</div>
+                                        <div class="sha">#7177656</div>
+                                        <div class="message">feat: add table component</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1ac98a0</div>
-                                        <div class="message">feat: add lato font</div>
+                                        <div class="sha">#71d4b7f</div>
+                                        <div class="message">feat: add typography element</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#56deb6b</div>
-                                        <div class="message">feat: add READAME</div>
+                                        <div class="sha">#b47b24a</div>
+                                        <div class="message">feat: add stylized heading group element</div>
                                     </div>
                                 </div>
                             </section>
