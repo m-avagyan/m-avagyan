@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#066f946</div>
-                                        <div class="message">fix: button fixes</div>
+                                        <div class="sha">#000ea97</div>
+                                        <div class="message">feat: add two-up cta element</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#901e9ae</div>
-                                        <div class="message">feat: add pseudo classes for buttons</div>
+                                        <div class="sha">#37dfca5</div>
+                                        <div class="message">fix: move image element into ui</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#53d9995</div>
-                                        <div class="message">feat: add small cta element</div>
+                                        <div class="sha">#7cf143f</div>
+                                        <div class="message">feat: add image elements</div>
                                     </div>
                                 </div>
                             </section>
