@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#000ea97</div>
-                                        <div class="message">feat: add two-up cta element</div>
+                                        <div class="sha">#8e65ecc</div>
+                                        <div class="message">feat: add Our Team 4-Up CTA element</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#37dfca5</div>
-                                        <div class="message">fix: move image element into ui</div>
+                                        <div class="sha">#3788e29</div>
+                                        <div class="message">feat: add team eaton cta element</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">gamirez/eatonrealty.com-dev</span>
+                                        <span class="repo">scottpipia/outcome</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">refresh</span></div>
+                                    <div>on branch <span class="code">martik/token-value-campaign</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7cf143f</div>
-                                        <div class="message">feat: add image elements</div>
+                                        <div class="sha">#f50d52b</div>
+                                        <div class="message">fix: update meta description</div>
                                     </div>
                                 </div>
                             </section>
