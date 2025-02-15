@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8e65ecc</div>
-                                        <div class="message">feat: add Our Team 4-Up CTA element</div>
+                                        <div class="sha">#850794e</div>
+                                        <div class="message">feat: add statistic cards</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3788e29</div>
-                                        <div class="message">feat: add team eaton cta element</div>
+                                        <div class="sha">#6f4626b</div>
+                                        <div class="message">feat: add content cards element</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">scottpipia/outcome</span>
+                                        <span class="repo">gamirez/eatonrealty.com-dev</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">martik/token-value-campaign</span></div>
+                                    <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f50d52b</div>
-                                        <div class="message">fix: update meta description</div>
+                                        <div class="sha">#8e65ecc</div>
+                                        <div class="message">feat: add Our Team 4-Up CTA element</div>
                                     </div>
                                 </div>
                             </section>
