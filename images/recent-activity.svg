@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dc922a1</div>
-                                        <div class="message">fix: color palette fixess</div>
+                                        <div class="sha">#97ad4bb</div>
+                                        <div class="message">fix: minor theming fixes</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b37c916</div>
-                                        <div class="message">feat: add how-agents-earn-cta element</div>
+                                        <div class="sha">#e6b8897</div>
+                                        <div class="message">feat: add link element</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">refresh</span></div>
                                     <div class="commit">
-                                        <div class="sha">#482466b</div>
-                                        <div class="message">feat: add video-cta-panel element</div>
+                                        <div class="sha">#d2aece0</div>
+                                        <div class="message">feat: add photo gallery slider element</div>
                                     </div>
                                 </div>
                             </section>
