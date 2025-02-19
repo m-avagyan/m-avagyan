@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/token-value-campaign</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7b2eba7</div>
-                                        <div class="message">feat: add new pages and meta arrays</div>
+                                        <div class="sha">#9aedd40</div>
+                                        <div class="message">feat: update pages left sections</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">martik/token-value-campaign</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f4907e9</div>
-                                        <div class="message">Merge branch 'martik/token-value-campaign' of github.com:scottpipia/outcome into martik/token-value-campaign</div>
+                                        <div class="sha">#5b397b0</div>
+                                        <div class="message">feat: add new reusable version of LeftSectiongraphic component</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">gamirez/eatonrealty.com-dev</span>
+                                        <span class="repo">scottpipia/outcome</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">refresh</span></div>
+                                    <div>on branch <span class="code">martik/token-value-campaign</span></div>
                                     <div class="commit">
-                                        <div class="sha">#97ad4bb</div>
-                                        <div class="message">fix: minor theming fixes</div>
+                                        <div class="sha">#7c0eb97</div>
+                                        <div class="message">feat: add new icons</div>
                                     </div>
                                 </div>
                             </section>
