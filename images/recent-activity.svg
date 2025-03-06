@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">config-frontend</span></div>
                                     <div class="commit">
-                                        <div class="sha">#060dbd2</div>
-                                        <div class="message">fix: add safelist classnames</div>
+                                        <div class="sha">#7c09364</div>
+                                        <div class="message">fix: minor fixes related header</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">config-frontend</span></div>
                                     <div class="commit">
-                                        <div class="sha">#771fccc</div>
-                                        <div class="message">feat: add typography component</div>
+                                        <div class="sha">#23db089</div>
+                                        <div class="message">feat: header UI</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,12 +69,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">config-frontend</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0c9fadf</div>
-                                        <div class="message">feat: config tailwind color vars</div>
+                                        <div class="sha">#1f93bfb</div>
+                                        <div class="message">feat: media queries</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b01f805</div>
-                                        <div class="message">feat: config style files</div>
+                                        <div class="sha">#ef0435c</div>
+                                        <div class="message">fix: tsconfig paths</div>
                                     </div>
                                 </div>
                             </section>
