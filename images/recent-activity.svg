@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3946a66</div>
-                                        <div class="message">update readme</div>
+                                        <div class="sha">#bd27e78</div>
+                                        <div class="message">handle not found page</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b6c5caa</div>
-                                        <div class="message">ton connect functionality</div>
+                                        <div class="sha">#b2fc542</div>
+                                        <div class="message">add telegram app url</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3d58526</div>
-                                        <div class="message">init redux</div>
+                                        <div class="sha">#8e6edcd</div>
+                                        <div class="message">minor fixes</div>
                                     </div>
                                 </div>
                             </section>
