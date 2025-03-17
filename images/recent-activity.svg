@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/bubble-games-back-end</span>
+                                        <span class="repo">frontland-dev/bubble-games-front-end</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d14d65a</div>
-                                        <div class="message">Merge branch 'master' of github.com:frontland-dev/bubble-games-back-end</div>
+                                        <div class="sha">#41b3faa</div>
+                                        <div class="message">config pages protection</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">gamirez/eatonrealty.com-dev</span>
+                                        <span class="repo">frontland-dev/bubble-games-front-end</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">refresh</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#853745a</div>
-                                        <div class="message">fix: mobile version filters</div>
+                                        <div class="sha">#1b50a7b</div>
+                                        <div class="message">feat: add logout functionality</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">gamirez/eatonrealty.com-dev</span>
+                                        <span class="repo">frontland-dev/bubble-games-front-end</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">refresh</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#de210a7</div>
-                                        <div class="message">fix: minor fixes</div>
+                                        <div class="sha">#1af59d9</div>
+                                        <div class="message">feat: connect wallet functionality and account ui improvements</div>
                                     </div>
                                 </div>
                             </section>
