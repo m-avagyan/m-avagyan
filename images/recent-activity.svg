@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d902b56</div>
-                                        <div class="message">optimize bundle</div>
+                                        <div class="sha">#ee9b3a6</div>
+                                        <div class="message">fix: games related fixes</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cc8fac6</div>
-                                        <div class="message">fix: cleanup</div>
+                                        <div class="sha">#1256b29</div>
+                                        <div class="message">handle bonus balance switcher in game</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2af1aa7</div>
-                                        <div class="message">fix: coin images</div>
+                                        <div class="sha">#4d05b15</div>
+                                        <div class="message">feat: support ru locale</div>
                                     </div>
                                 </div>
                             </section>
