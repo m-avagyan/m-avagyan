@@ -23,13 +23,13 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/bubble-games-front-end</span>
+                                        <span class="repo">frontland-dev/bubble-games-cms-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d70ae27</div>
+                                        <div class="sha">#515ab81</div>
                                         <div class="message">fix</div>
                                     </div>
                                 </div>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/bubble-games-front-end</span>
+                                        <span class="repo">frontland-dev/bubble-games-cms-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#42af5a9</div>
-                                        <div class="message">feat: balance history</div>
+                                        <div class="sha">#cf8c171</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/bubble-games-front-end</span>
+                                        <span class="repo">frontland-dev/bubble-games-cms-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#233cd2f</div>
-                                        <div class="message">feat: delete account functionality</div>
+                                        <div class="sha">#c8ca39b</div>
+                                        <div class="message">bonuses and games</div>
                                     </div>
                                 </div>
                             </section>
