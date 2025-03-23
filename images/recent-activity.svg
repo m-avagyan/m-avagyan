@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ee9b3a6</div>
-                                        <div class="message">fix: games related fixes</div>
+                                        <div class="sha">#d70ae27</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1256b29</div>
-                                        <div class="message">handle bonus balance switcher in game</div>
+                                        <div class="sha">#42af5a9</div>
+                                        <div class="message">feat: balance history</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4d05b15</div>
-                                        <div class="message">feat: support ru locale</div>
+                                        <div class="sha">#233cd2f</div>
+                                        <div class="message">feat: delete account functionality</div>
                                     </div>
                                 </div>
                             </section>
