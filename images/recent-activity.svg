@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">games-generation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1fb5f4c</div>
-                                        <div class="message">fix: game not found redirection</div>
+                                        <div class="sha">#ff89363</div>
+                                        <div class="message">wip: coin flip game</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">games-generation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6f44825</div>
-                                        <div class="message">wip: remove old games, config currency</div>
+                                        <div class="sha">#ce8371a</div>
+                                        <div class="message">feat: game frame</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/bubble-games-cms-dashboard</span>
+                                        <span class="repo">frontland-dev/bubble-games-front-end</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">games-generation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a207471</div>
-                                        <div class="message">game API fixes</div>
+                                        <div class="sha">#1fb5f4c</div>
+                                        <div class="message">fix: game not found redirection</div>
                                     </div>
                                 </div>
                             </section>
