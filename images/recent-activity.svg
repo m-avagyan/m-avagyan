@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c678e38</div>
-                                        <div class="message">feat: game list</div>
+                                        <div class="sha">#587c6a2</div>
+                                        <div class="message">logo fixes</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d2aa286</div>
-                                        <div class="message">feat: add cup flip game</div>
+                                        <div class="sha">#53f5327</div>
+                                        <div class="message">add logo assets, add promotion banners initial ui, game list ui, etc.</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/bubble-games-front-end</span>
+                                        <span class="repo">frontland-dev/bubble-games-cms-dashboard</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c35d89e</div>
-                                        <div class="message">add dice roll game</div>
+                                        <div class="sha">#b11683a</div>
+                                        <div class="message">feat: add order and cover fields in bonuses</div>
                                     </div>
                                 </div>
                             </section>
