@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f1f586e</div>
-                                        <div class="message">translations</div>
+                                        <div class="sha">#c678e38</div>
+                                        <div class="message">feat: game list</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ef24184</div>
-                                        <div class="message">rewrite url mapping for locale</div>
+                                        <div class="sha">#d2aa286</div>
+                                        <div class="message">feat: add cup flip game</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dcd4414</div>
-                                        <div class="message">wip: translations</div>
+                                        <div class="sha">#c35d89e</div>
+                                        <div class="message">add dice roll game</div>
                                     </div>
                                 </div>
                             </section>
