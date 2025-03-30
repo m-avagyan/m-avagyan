@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ca80354</div>
-                                        <div class="message">fixes on thimblerig game</div>
+                                        <div class="sha">#6f9b65a</div>
+                                        <div class="message">add door pick game</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9f4cfb0</div>
-                                        <div class="message">feat: add date field on balance and transaction histories</div>
+                                        <div class="sha">#2decc9d</div>
+                                        <div class="message">make dices closer</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e2c73eb</div>
-                                        <div class="message">feat: game playing logic</div>
+                                        <div class="sha">#6b9eb40</div>
+                                        <div class="message">new dice duel game</div>
                                     </div>
                                 </div>
                             </section>
