@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/updates</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5719dde</div>
-                                        <div class="message">format codebase</div>
+                                        <div class="sha">#7fbbfbf</div>
+                                        <div class="message">add GA support</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/updates</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7de7853</div>
-                                        <div class="message">fix: build fixes</div>
+                                        <div class="sha">#067b36c</div>
+                                        <div class="message">add video into slack product section</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/bubble-games-back-end</span>
+                                        <span class="repo">opsworker-ai/opsworker-app</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feature/updates</span></div>
                                     <div class="commit">
-                                        <div class="sha">#835e5b0</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#41daa0a</div>
+                                        <div class="message">add video into slack product section</div>
                                     </div>
                                 </div>
                             </section>
