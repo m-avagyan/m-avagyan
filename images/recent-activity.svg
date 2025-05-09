@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/updates</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7fbbfbf</div>
-                                        <div class="message">add GA support</div>
+                                        <div class="sha">#e4c22c3</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/updates</span></div>
                                     <div class="commit">
-                                        <div class="sha">#067b36c</div>
-                                        <div class="message">add video into slack product section</div>
+                                        <div class="sha">#3b5135b</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/updates</span></div>
                                     <div class="commit">
-                                        <div class="sha">#41daa0a</div>
-                                        <div class="message">add video into slack product section</div>
+                                        <div class="sha">#3891d4c</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
