@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="299" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="333" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,59 +22,43 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
+                                        Pushed 8 commits in
                                         <span class="repo">opsworker-ai/opsworker-customer-portal</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7c7eb6e</div>
-                                        <div class="message">Merge pull request #13 from opsworker-ai/OPW-338-Share-your-feedback-with-us-NOT-kept-after-feedback-submitted</div>
+                                        <div class="sha">#15ce0f4</div>
+                                        <div class="message">Merge pull request #14 from opsworker-ai/OPW-342-API-integration-for-Onboarding</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1c15489</div>
-                                        <div class="message">Fix file casing issues</div>
+                                        <div class="sha">#546c14d</div>
+                                        <div class="message">fix: remove console log from createClusterAndPollStatus function</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#fa0605f</div>
-                                        <div class="message">refactor: update imports and improve notification handling in review components</div>
+                                        <div class="sha">#c2906da</div>
+                                        <div class="message">fix: correct title casing in metadata and adjust fetching status condition in StepTwo component</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1e2e041</div>
-                                        <div class="message">Merge branch 'develop' into OPW-338-Share-your-feedback-with-us-NOT-kept-after-feedback-submitted</div>
+                                        <div class="sha">#4280d43</div>
+                                        <div class="message">feat: refactor ClusterSlice methods and implement onboarding hooks for cluster creation and status polling</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ca0a6ba</div>
-                                        <div class="message">refactor: replace Label component with lowercase filename; update imports across the project
-
-feat: implement AnalysisText component for rendering multiline text
-
-refactor: update DatePicker component for consistent string usage and styling improvements
-
-refactor: clean up InputStates and TextAreaInput components for better readability
-
-fix: adjust TaskHeader component for improved layout and accessibility
-
-refactor: modify data table components to use new Investigation types and improve data handling
-
-chore: remove unused Label component file and update references</div>
+                                        <div class="sha">#a861a8b</div>
+                                        <div class="message">feat: enhance API integration by adding Cluster and User slices; refactor layout for first visit check</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b11dded</div>
-                                        <div class="message">Refactor UI components and improve notification handling
-
-- Updated SecondaryButtonGroupWithRightIcon component for better structure and readability.
-- Refactored Notification component to streamline props and improve visibility handling.
-- Created a new notification.tsx file to separate notification logic from the previous implementation.
-- Standardized import paths for Label and Select components across user profile components.
-- Modified user address, info, and meta cards to use the updated Label component.
-- Adjusted chart line component to change series type from area to line.
-- Updated filter component to standardize import paths for Label and Select.
-- Cleaned up incident timeline table by removing unnecessary whitespace.
-- Enhanced review content component to include a new ReviewSelectableStatuses component for better status selection.
-- Updated incidents details hook to manage reviews state and handle post-review responses.
-- Fixed import paths for Select component in app header layout.</div>
+                                        <div class="sha">#d72c483</div>
+                                        <div class="message">feat: add UserSlice and CheckFirstLogin response handling; update SortOrder type formatting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#363345d</div>
+                                        <div class="message">feat: implement Cluster API integration with request handling and response classes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bb2495</div>
+                                        <div class="message">feat: add ClusterSlice, input, and response classes for cluster API integration</div>
                                     </div>
                                 </div>
                             </section>
@@ -87,12 +71,12 @@ chore: remove unused Label component file and update references</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#13 Opw 338 share your feedback with us not kept after feedback submitted</span>
+                                        <span class="issue">#14 Opw 342 api integration for onboarding</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by Mayis in <span class="repo">opsworker-ai/opsworker-customer-portal</span></div>
-                                    <div>38 files changed <span class="code">++9429 --9425</span></div>
+                                    <div>16 files changed <span class="code">++278 --99</span></div>
                                 </div>
                             </section>
                         </div>
@@ -104,7 +88,7 @@ chore: remove unused Label component file and update references</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#13 Opw 338 share your feedback with us not kept after feedback submitted</span>
+                                        <span class="issue">#14 Opw 342 api integration for onboarding</span>
                                     </div>
                                 </div>
                                 <div class="details">
