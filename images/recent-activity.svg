@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9e4ee51</div>
-                                        <div class="message">imporve chat context with commands, history, company data, etc.</div>
+                                        <div class="sha">#ebcfb56</div>
+                                        <div class="message">fix: users with role VIEWER should not enable to create a chat</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#68d45d1</div>
-                                        <div class="message">config Gemini AI, add chat related endpoints</div>
+                                        <div class="sha">#ca9ea2d</div>
+                                        <div class="message">create initial migration schema</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9742552</div>
-                                        <div class="message">fix initial migration script</div>
+                                        <div class="sha">#cb6c641</div>
+                                        <div class="message">add assistant messaging related endpoints</div>
                                     </div>
                                 </div>
                             </section>
