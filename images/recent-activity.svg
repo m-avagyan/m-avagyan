@@ -22,33 +22,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">neulandAI/neuland-ai-hub</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">opsworker-ai/opsworker-customer-portal</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#36f802b</div>
-                                        <div class="message">Merge pull request #599 from neulandAI/bugfix/NLHUB-643
-
-NLHUB 643</div>
+                                        <div class="sha">#bc5bdb9</div>
+                                        <div class="message">Merge pull request #18 from opsworker-ai/OPW-407-minor-bug-fixes</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bdd8c36</div>
-                                        <div class="message">fix: the title of new prompt sheet</div>
+                                        <div class="sha">#81e002f</div>
+                                        <div class="message">Merge branch 'OPW-407-minor-bug-fixes' of github.com:opsworker-ai/opsworker-customer-portal into OPW-407-minor-bug-fixes</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e7164d6</div>
-                                        <div class="message">Merge branch 'dev' of github.com:neulandAI/neuland-ai-hub into dev</div>
+                                        <div class="sha">#94bc44d</div>
+                                        <div class="message">refactor: optimize variable usage and improve readability in FileDetail and layout components</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2403963</div>
-                                        <div class="message">Merge branch 'dev' of github.com:neulandAI/neuland-ai-hub into dev</div>
+                                        <div class="sha">#8b9a3a1</div>
+                                        <div class="message">feat: update sorting labels in InvestigationsPage and add workspace input in InviteUserModal</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#205fdfc</div>
-                                        <div class="message">Merge branch 'dev' of github.com:neulandAI/neuland-ai-hub into dev</div>
+                                        <div class="sha">#11b4158</div>
+                                        <div class="message">refactor: remove debug logging from layout and middleware for cleaner code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2824a14</div>
+                                        <div class="message">feat: update sorting labels in InvestigationsPage and add workspace input in InviteUserModal</div>
                                     </div>
                                 </div>
                             </section>
@@ -61,12 +63,12 @@ NLHUB 643</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#599 NLHUB 643</span>
+                                        <span class="issue">#18 Opw 407 minor bug fixes</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">neulandAI/neuland-ai-hub</span></div>
-                                    <div>3 files changed <span class="code">++3 --1</span></div>
+                                    <div>opened by Mayis in <span class="repo">opsworker-ai/opsworker-customer-portal</span></div>
+                                    <div>8 files changed <span class="code">++22 --12</span></div>
                                 </div>
                             </section>
                         </div>
@@ -74,16 +76,15 @@ NLHUB 643</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#599 NLHUB 643</span>
+                                        Reviewed
+                                        <span class="issue">#18 Opw 407 minor bug fixes</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">neulandAI/neuland-ai-hub</span></div>
-                                    <div>3 files changed <span class="code">++3 --1</span></div>
+                                    <div>opened by Mayis in <span class="repo">opsworker-ai/opsworker-customer-portal</span></div>
                                 </div>
                             </section>
                         </div>
