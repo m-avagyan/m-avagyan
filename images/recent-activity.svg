@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="199" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="516" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,128 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 65 commits in
+                                        <span class="repo">neulandAI/neuland-ai-hub</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/abc-finance-ai-app-integration</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9730c60</div>
+                                        <div class="message">fix: a bug fixed in copying vectors.
+
+ - vector copy enabled by default
+ - node metadata bug fixed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5320328</div>
+                                        <div class="message">feat: implemented user-activity-feature, to log all user events and changed active-users-count policy to get ot from the feature</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc7e2d5</div>
+                                        <div class="message">chore: ignore comments from alembic migrations
+
+Change model comments was creating noise in migrations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43c0f42</div>
+                                        <div class="message">fix: fixed chats deletion, Added on-delete=set-null to preserve token counts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd85e7d</div>
+                                        <div class="message">chore(release): 1.39.18 [skip ci]
+
+## [1.39.18](https://github.com/neulandAI/neuland-ai-hub/compare/v1.39.17...v1.39.18) (2025-08-12)
+
+### Bug Fixes
+
+* disable vector copy by default. ([288312e](https://github.com/neulandAI/neuland-ai-hub/commit/288312e476b96dbf02ac2ae8bc4f4fd65176d158))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1a9162</div>
+                                        <div class="message">Merge pull request #596 from neulandAI/bugfix/disable-vector-copy-by-default
+
+fix: disable vector copy by default.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#288312e</div>
+                                        <div class="message">fix: disable vector copy by default.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#654bad1</div>
+                                        <div class="message">GPT 5 model infra has been added</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe59220</div>
+                                        <div class="message">chore(release): 1.39.17 [skip ci]
+
+## [1.39.17](https://github.com/neulandAI/neuland-ai-hub/compare/v1.39.16...v1.39.17) (2025-08-12)
+
+### Bug Fixes
+
+* NLHUB-636 fixed. ([8c8bc11](https://github.com/neulandAI/neuland-ai-hub/commit/8c8bc116c9ac6fce844a62d776189c8fcfe258a1))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bac58c1</div>
+                                        <div class="message">Merge pull request #594 from neulandAI/bugfix/wrong-password-control-on-edit
+
+Bugfix/wrong password control on edit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#472349b</div>
+                                        <div class="message">test for password update.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f82c4c</div>
+                                        <div class="message">test removed as user cannot change the password using update without having their own old password.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#296ed8b</div>
+                                        <div class="message">checking oauth users for password change removed.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1b16ec</div>
+                                        <div class="message">password change using patch just for other users.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c8bc11</div>
+                                        <div class="message">fix: NLHUB-636 fixed.
+
+ - auth provider checked when changing password
+ - password migration checked when th user changes his/her own password</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3a0366</div>
+                                        <div class="message">chore(release): 1.39.16 [skip ci]
+
+* deploy ([f11e7e1](https://github.com/neulandAI/neuland-ai-hub/commit/f11e7e19c522952cf496ee7cf291212d1057a264))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0e6e76</div>
+                                        <div class="message">perf: removed set active to false, so it is visible on frontend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1305284</div>
+                                        <div class="message">Fix: removed set active to false, so it is visible on frontend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3e3053</div>
+                                        <div class="message">perf: added reset budget functionality and fixed email bug</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cacdc37</div>
+                                        <div class="message">fix: email notification fix for budget alerts</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -45,26 +167,6 @@
                                     <div class="commit">
                                         <div class="sha">#5865d62</div>
                                         <div class="message">wip: oauth</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">frontland-dev/markland-ai-back-end</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d0c1421</div>
-                                        <div class="message">wip: integrations and oauth cb</div>
                                     </div>
                                 </div>
                             </section>
