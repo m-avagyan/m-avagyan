@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/markland-ai-back-end</span>
+                                        <span class="repo">frontland-dev/markland-ai-front-end</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d4d99df</div>
-                                        <div class="message">feat: collections endpoints and link collection for assistant</div>
+                                        <div class="sha">#41f9921</div>
+                                        <div class="message">fix: test assistant</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8d2b2ba</div>
-                                        <div class="message">fix main layout height</div>
+                                        <div class="sha">#f510e4e</div>
+                                        <div class="message">assistant profile</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#42ac31c</div>
-                                        <div class="message">feat: integration play/pause</div>
+                                        <div class="sha">#aab54a7</div>
+                                        <div class="message">fix: delete colletion validation</div>
                                     </div>
                                 </div>
                             </section>
