@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2c56400</div>
-                                        <div class="message">wip: fb connect</div>
+                                        <div class="sha">#dadd6bc</div>
+                                        <div class="message">send ai response</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/markland-ai-front-end</span>
+                                        <span class="repo">frontland-dev/markland-ai-back-end</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#41f9921</div>
-                                        <div class="message">fix: test assistant</div>
+                                        <div class="sha">#a65237c</div>
+                                        <div class="message">fix: build errors</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">frontland-dev/markland-ai-front-end</span>
+                                        <span class="repo">frontland-dev/markland-ai-back-end</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f510e4e</div>
-                                        <div class="message">assistant profile</div>
+                                        <div class="sha">#b1dc0d3</div>
+                                        <div class="message">wip: facebook messaging</div>
                                     </div>
                                 </div>
                             </section>
