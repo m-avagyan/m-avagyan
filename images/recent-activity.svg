@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="233" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="549" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,142 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 65 commits in
+                                        <span class="repo">neulandAI/neuland-ai-hub</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/abc-finance-ai-app-integration</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2e9d37d</div>
+                                        <div class="message">removed commented code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71908df</div>
+                                        <div class="message">chore(release): 1.44.10 [skip ci]
+
+## [1.44.10](https://github.com/neulandAI/neuland-ai-hub/compare/v1.44.9...v1.44.10) (2025-08-25)
+
+### Bug Fixes
+
+* try to use as non experimental config for bodySizeLimit ([488f790](https://github.com/neulandAI/neuland-ai-hub/commit/488f79092af527503d63761dc3554e3ccc35a599))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70394b2</div>
+                                        <div class="message">Merge pull request #636 from neulandAI/branding-image-upload-issue
+
+fix: try to use as non experimental config for bodySizeLimit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#488f790</div>
+                                        <div class="message">fix: try to use as non experimental config for bodySizeLimit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46ad000</div>
+                                        <div class="message">Update message.py</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ebd8ae</div>
+                                        <div class="message">chore(release): 1.44.9 [skip ci]
+
+## [1.44.9](https://github.com/neulandAI/neuland-ai-hub/compare/v1.44.8...v1.44.9) (2025-08-25)
+
+### Bug Fixes
+
+* removed runtime from server acrion file ([bb8c9f6](https://github.com/neulandAI/neuland-ai-hub/commit/bb8c9f667e73495105674d9c841cc7a0ba056234))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f34344b</div>
+                                        <div class="message">Merge pull request #635 from neulandAI/branding-image-upload-issue
+
+fix: removed runtime from server acrion file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb8c9f6</div>
+                                        <div class="message">fix: removed runtime from server acrion file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b3d8e7</div>
+                                        <div class="message">chore(release): 1.44.8 [skip ci]
+
+## [1.44.8](https://github.com/neulandAI/neuland-ai-hub/compare/v1.44.7...v1.44.8) (2025-08-25)
+
+### Bug Fixes
+
+* test fix for body limit of server action ([e3317be](https://github.com/neulandAI/neuland-ai-hub/commit/e3317be2bac995f925ebed2d1ef2c595ed5baec7))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dfc1c83</div>
+                                        <div class="message">Merge pull request #634 from neulandAI/branding-image-upload-issue
+
+fix: test fix for body limit of server action</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3317be</div>
+                                        <div class="message">fix: test fix for body limit of server action</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9c8fdf</div>
+                                        <div class="message">chore(release): 1.44.7 [skip ci]
+
+## [1.44.7](https://github.com/neulandAI/neuland-ai-hub/compare/v1.44.6...v1.44.7) (2025-08-25)
+
+### Bug Fixes
+
+* hcanged fn name ([a95df4f](https://github.com/neulandAI/neuland-ai-hub/commit/a95df4f429d9c8e89fbeba82afa15a27b2075bb8))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10a8ddc</div>
+                                        <div class="message">Merge pull request #633 from neulandAI/branding-image-upload-issue
+
+fix: hcanged fn name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a95df4f</div>
+                                        <div class="message">fix: hcanged fn name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6cd0056</div>
+                                        <div class="message">Update message.py</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d844f36</div>
+                                        <div class="message">chore(release): 1.44.6 [skip ci]
+
+## [1.44.6](https://github.com/neulandAI/neuland-ai-hub/compare/v1.44.5...v1.44.6) (2025-08-25)
+
+### Bug Fixes
+
+* fixed body size issue ([4e4523a](https://github.com/neulandAI/neuland-ai-hub/commit/4e4523a23678a2f0de5716655f3145a804ef0617))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#828d29e</div>
+                                        <div class="message">Merge pull request #632 from neulandAI/branding-image-upload-issue
+
+fixed body size issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e4523a</div>
+                                        <div class="message">fix: fixed body size issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#539e9ec</div>
+                                        <div class="message">Enhanced Prompt for self reflection, placeholder for outbound guardrail, removed response generation in outbound guardrail, new method added to QueryResponse for new Prompt enhancements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f11034b</div>
+                                        <div class="message">feat: let superadmins change user's tenant</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -51,26 +187,6 @@
                                     <div class="commit">
                                         <div class="sha">#bbca746</div>
                                         <div class="message">feat: collection and weekly activity for dashboard</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">frontland-dev/markland-ai-back-end</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3fe1274</div>
-                                        <div class="message">feat: minor improvements for dashboard system and paging for getAll endpoints</div>
                                     </div>
                                 </div>
                             </section>
