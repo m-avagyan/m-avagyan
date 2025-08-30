@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e1c1e83</div>
-                                        <div class="message">integration related features</div>
+                                        <div class="sha">#68850fe</div>
+                                        <div class="message">fb page info</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#79097f9</div>
-                                        <div class="message">minor improvements</div>
+                                        <div class="sha">#2910b77</div>
+                                        <div class="message">fb page info</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#619f11e</div>
-                                        <div class="message">Merge branch 'dev' of github.com:frontland-dev/markland-ai-back-end into dev</div>
+                                        <div class="sha">#30c4c0a</div>
+                                        <div class="message">add logs</div>
                                     </div>
                                 </div>
                             </section>
