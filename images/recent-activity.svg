@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feat/abc-finance-ai-app-integration</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d828ceb</div>
-                                        <div class="message">fix: remove efxplore related next api endpoints</div>
+                                        <div class="sha">#7510060</div>
+                                        <div class="message">feat: sidebar for mobile</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feat/abc-finance-ai-app-integration</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b490e25</div>
-                                        <div class="message">wip: enable efxplore app</div>
+                                        <div class="sha">#e7e70ba</div>
+                                        <div class="message">fix: messages ordering for new messages</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,15 +62,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 19 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">neulandAI/neuland-ai-hub</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">feat/abc-finance-ai-app-integration</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0e8782e</div>
-                                        <div class="message">Merge branch 'dev' of github.com:neulandAI/neuland-ai-hub into feat/abc-finance-ai-app-integration</div>
+                                        <div class="sha">#4399794</div>
+                                        <div class="message">feat: saving and editing the chat</div>
                                     </div>
                                 </div>
                             </section>
