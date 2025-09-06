@@ -29,14 +29,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6d9d288</div>
-                                        <div class="message">Merge pull request #678 from neulandAI/feat/abc-finance-ai-app-integration
+                                        <div class="sha">#2c29fb5</div>
+                                        <div class="message">Merge pull request #681 from neulandAI/feat/abc-finance-ai-app-integration
 
-fix: UI improvements for data sources</div>
+fix: add fallback iframe url for smartresponder</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a3920ed</div>
-                                        <div class="message">fix: UI improvements for data sources</div>
+                                        <div class="sha">#77a5bd0</div>
+                                        <div class="message">fix: add fallback iframe url for smartresponder</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,12 +49,12 @@ fix: UI improvements for data sources</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#678 fix: UI improvements for data sources</span>
+                                        <span class="issue">#681 fix: add fallback iframe url for smartresponder</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">neulandAI/neuland-ai-hub</span></div>
-                                    <div>3 files changed <span class="code">++8 --23</span></div>
+                                    <div>1 file changed <span class="code">++5 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -66,12 +66,12 @@ fix: UI improvements for data sources</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#678 fix: UI improvements for data sources</span>
+                                        <span class="issue">#681 fix: add fallback iframe url for smartresponder</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">neulandAI/neuland-ai-hub</span></div>
-                                    <div>3 files changed <span class="code">++8 --23</span></div>
+                                    <div>1 file changed <span class="code">++5 --1</span></div>
                                 </div>
                             </section>
                         </div>
